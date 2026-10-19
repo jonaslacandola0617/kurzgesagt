@@ -1,0 +1,22 @@
+{
+ "test": "oklo-style-test-20261019",
+ "status": "STYLE TEST, not an episode; topic not selected; no owner approval",
+ "preset": "illustrated-science-trial-v1",
+ "scene_fps": 12, "output": "1080x1920@30", "duration_s": 12.4,
+ "narration": {"voice": "Bernard (ElevenLabs QMJTqaMXmGnG8TCm8WQG, eleven_v3)", "generation_id": "YsbpPU1Qo7w3mLeoY6rf", "speech_s": 11.36, "offset_s": 0.25, "word_timing": "ElevenLabs Scribe word timestamps (machine alignment, not independently verified)"},
+ "beats": [
+  {"t": "0.00-1.75", "inherited": "none", "operation": "establish dusk savanna surface; keyword pops at 0.35", "understanding": "deep time, a place on Earth", "hold_reason": "opening reading of keyword", "audio": "dusk pad, shimmer motif"},
+  {"t": "1.75-3.45", "inherited": "surface", "operation": "camera dives through strata, groundwater line labelled at 2.3, keyword swaps to OKLO, GABON at 2.55", "understanding": "it happened underground, below the water table", "audio": "parallax swish 1.75"},
+  {"t": "3.45-4.25", "inherited": "strata", "operation": "glowing ore seam revealed and labelled; zoom toward it", "understanding": "the source is a uranium ore body", "audio": "discovery chime 3.58"},
+  {"t": "4.25-4.95", "inherited": "ore glow (invariant: amber)", "operation": "iris transition opens the seam into its interior", "understanding": "scale change from rock to atoms", "audio": "soft depth pass 4.25"},
+  {"t": "4.75-5.40", "inherited": "interior", "operation": "uranium atom and water labelled; first neutron enters", "understanding": "the ingredients", "audio": "pulse begins"},
+  {"t": "5.40-6.70", "inherited": "neutron", "operation": "six fissions cascade; fragments and new neutrons; keyword CHAIN REACTION", "understanding": "each split releases neutrons that split more uranium", "audio": "micro emphasis per visible split, accelerating pulse"},
+  {"t": "6.30-7.60", "inherited": "cascade glow", "operation": "rock warms to red, thermometer appears and rises", "understanding": "the reaction makes heat", "audio": "riser, tension cluster"},
+  {"t": "7.60-9.85", "inherited": "heat", "operation": "pores boil, bubbles rise, water levels drop; keyword BOILING", "understanding": "the heat removes the water", "audio": "designed bubble pops, simmer"},
+  {"t": "8.45-9.52", "inherited": "last water pocket", "operation": "a neutron slows inside water (labelled) and then splits atom H", "understanding": "water is what made splitting work", "audio": "micro emphasis 9.52"},
+  {"t": "9.85-11.30", "inherited": "dry pores", "operation": "fast neutrons streak past atoms without splitting (labelled); glow and thermometer fall; keyword OFF", "understanding": "without water the reaction stops itself", "audio": "quick reframes, restrained boom 10.42, descending motif"},
+  {"t": "11.30-12.40", "inherited": "dim reactor", "operation": "hold", "understanding": "landing", "hold_reason": "protected narration tail (0.79 s after final word) plus fade; no brand ending exists yet", "audio": "low drone release"}
+ ],
+ "finishing": "Clean flat colour with radial glows; no grain, paper, jitter or chromatic effects (NOT APPLICABLE by design for this test)",
+ "known_simplifications": ["Not to scale (labelled on screen)", "Real Oklo cycle was about 30 min on / 2.5 h off; the test compresses one cycle into seconds", "Neutron moderation shown schematically"]
+}

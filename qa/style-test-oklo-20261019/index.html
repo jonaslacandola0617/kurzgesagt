@@ -1,0 +1,9 @@
+<!doctype html><html><head><meta charset="utf-8"><title>Oklo style test</title>
+<style>html,body{margin:0;background:#000}canvas{display:block}</style></head><body>
+<canvas id="c" width="1080" height="1920"></canvas>
+<script src="scene.js"></script>
+<script>
+const q=document.getElementById('c').getContext('2d');
+window.ready=(async()=>{for(const [u,w] of [['../../assets/fonts/Manrope800.ttf','800'],['../../assets/fonts/Manrope.ttf','200 800']]){const f=new FontFace('Manrope',`url(${u})`,{weight:w});await f.load();document.fonts.add(f);}await document.fonts.ready;return OkloTest.FRAMES})();
+window.renderFrame=i=>OkloTest.renderFrame(q,i);
+</script></body></html>
