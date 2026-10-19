@@ -1,0 +1,17 @@
+{
+ "voice": "Bernard",
+ "voice_id": "QMJTqaMXmGnG8TCm8WQG",
+ "elevenlabs_library_name": "Clyde - Vintage Male Radio Announcer",
+ "model": "eleven_v3",
+ "flow_id": "atApAeEzmANKsfMjmtkg",
+ "script": "script.md v1 (draft, not yet owner approved)",
+ "generated": "2026-10-19",
+ "takes": [
+  {"generation_id": "60MoubNxpeqZRE0IJdgw", "duration_s": 92.96, "status": "completed"},
+  {"generation_id": "do8dPOKUA9HSn4mT4IsL", "duration_s": 90.56, "status": "completed"},
+  {"generation_id": "S5d7ywNxkxVt12RWztNR", "status": "failed: ElevenLabs account flagged, free tier access disabled"},
+  {"generation_id": "PGt9fmx6VsS5pDTG1Lw2", "status": "failed: ElevenLabs account flagged, free tier access disabled"}
+ ],
+ "audio_bytes_in_repo": false,
+ "note": "Audio download blocked from the workspace (storage.googleapis.com not allowed); owner to download. Speed untouched; gaps and tail not yet measured."
+}
