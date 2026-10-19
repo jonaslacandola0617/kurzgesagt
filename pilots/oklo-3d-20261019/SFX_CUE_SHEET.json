@@ -1,0 +1,133 @@
+{
+ "voice_offset_s": 0.25,
+ "duration_s": 12.4,
+ "cues": [
+  {
+   "event": "dive into the ground",
+   "onset_s": 1.767,
+   "asset": "audio/sfx_v1/motion/SFX_MOTION_parallax_swish_v1.flac",
+   "sha256": "cf811cd552fad696bbc099ab3754add546034f1c892af5516c02b919e54180b0",
+   "gain_db": -6,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "ore seam revealed",
+   "onset_s": 3.6,
+   "asset": "audio/sfx_v1/editorial/SFX_EDITORIAL_discovery_chime_v1.flac",
+   "sha256": "5ccfbca8261f4e703d437d249e4b2b6c47c05fe756fc2e834d29056e9f5a252f",
+   "gain_db": -8,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "iris into the ore",
+   "onset_s": 4.267,
+   "asset": "audio/sfx_v1/motion/SFX_MOTION_soft_depth_pass_v1.flac",
+   "sha256": "0e9b66b3db679e689e2ad980881a2e862f3b82353d9ed0fb348d46078ca13b16",
+   "gain_db": -7,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "first fission",
+   "onset_s": 5.4,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_micro_emphasis_v1.flac",
+   "sha256": "477c33e0caa4313d8cb7bc0e1decdfc2fd15b161c7c2b8bcb719f16b84adc1b2",
+   "gain_db": -5,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "fission C",
+   "onset_s": 5.8,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_micro_emphasis_v1.flac",
+   "sha256": "477c33e0caa4313d8cb7bc0e1decdfc2fd15b161c7c2b8bcb719f16b84adc1b2",
+   "gain_db": -9,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "fission B",
+   "onset_s": 5.867,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_micro_emphasis_v1.flac",
+   "sha256": "477c33e0caa4313d8cb7bc0e1decdfc2fd15b161c7c2b8bcb719f16b84adc1b2",
+   "gain_db": -10,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "fission D",
+   "onset_s": 6.133,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_micro_emphasis_v1.flac",
+   "sha256": "477c33e0caa4313d8cb7bc0e1decdfc2fd15b161c7c2b8bcb719f16b84adc1b2",
+   "gain_db": -10,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "fission E",
+   "onset_s": 6.3,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_micro_emphasis_v1.flac",
+   "sha256": "477c33e0caa4313d8cb7bc0e1decdfc2fd15b161c7c2b8bcb719f16b84adc1b2",
+   "gain_db": -11,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "fission F",
+   "onset_s": 6.7,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_micro_emphasis_v1.flac",
+   "sha256": "477c33e0caa4313d8cb7bc0e1decdfc2fd15b161c7c2b8bcb719f16b84adc1b2",
+   "gain_db": -12,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "heat rises",
+   "onset_s": 6.4,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_suspense_riser_v1.flac",
+   "sha256": "36f58ac6922190c293303434a089bc81b5d0823542595e4d6e8015de1cd203ba",
+   "gain_db": -14,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "moderated fission H",
+   "onset_s": 9.533,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_micro_emphasis_v1.flac",
+   "sha256": "477c33e0caa4313d8cb7bc0e1decdfc2fd15b161c7c2b8bcb719f16b84adc1b2",
+   "gain_db": -11,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "fast neutron 1",
+   "onset_s": 10.1,
+   "asset": "audio/original-sfx-v1/wav/transitions__quick_reframe.wav",
+   "sha256": "8a6239c0a9cb41c8a63a1163de4ad80bb33279a6b9a027f889c00d03a39492df",
+   "gain_db": -12,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "fast neutron 2",
+   "onset_s": 10.3,
+   "asset": "audio/original-sfx-v1/wav/transitions__quick_reframe.wav",
+   "sha256": "8a6239c0a9cb41c8a63a1163de4ad80bb33279a6b9a027f889c00d03a39492df",
+   "gain_db": -13,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "fast neutron 3",
+   "onset_s": 10.567,
+   "asset": "audio/original-sfx-v1/wav/transitions__quick_reframe.wav",
+   "sha256": "8a6239c0a9cb41c8a63a1163de4ad80bb33279a6b9a027f889c00d03a39492df",
+   "gain_db": -14,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "reactor off",
+   "onset_s": 10.433,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_restrained_boom_v1.flac",
+   "sha256": "0f8ed588c6c31aa27d3634ef7b39acb5709831b959bc4366aaa2b9aa282b11fa",
+   "gain_db": -8,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "boiling bubble pops x26",
+   "onset_s": "7.67-9.92",
+   "asset": "synthesized in mix.py",
+   "gain_db": "about -26",
+   "provenance": "designed sound, not a recording"
+  }
+ ]
+}
