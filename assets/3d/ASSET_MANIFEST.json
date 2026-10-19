@@ -84,6 +84,78 @@
    "source_sha256": "21bbae15e9adde207b4e8bbffc353918f72ec2f9d77fe173c0620347ed0e1857",
    "sha256": "c13c715bf6744d1944c24448d2a19e82db2f2f69b654df014f8873a4823f0e15",
    "note": "renamed; brand comments and material prefix neutralised"
+  },
+  {
+   "file": "assets/3d/scientist_labcoat.obj",
+   "source_sha256": "041e94b9ab9505aed183754d678502c587f92acb2b7bd8a455191a89cd49fbf2",
+   "sha256": "06a4b360b73038552770db3221a821bda1f928368b8e3434e4f50164de8a894b",
+   "note": "renamed; brand comments and material prefix neutralised; source commit e7e803f"
+  },
+  {
+   "file": "assets/3d/scientist_labcoat.mtl",
+   "source_sha256": "fb3720b59462daf2c0d507417e30701e955c0f93f4b74bf11c503c29be4639d2",
+   "sha256": "fb3720b59462daf2c0d507417e30701e955c0f93f4b74bf11c503c29be4639d2",
+   "note": "renamed; brand comments and material prefix neutralised; source commit e7e803f"
+  },
+  {
+   "file": "assets/3d/earth.obj",
+   "source_sha256": "860ab717a17df6327b0d2844e4caf2a15dea6e216b6876ec4a20328dabee4a97",
+   "sha256": "3cb1bf1629393eba049a92091b363da2ea81b4e3e4b9ba693f1090d87c1ca9e3",
+   "note": "renamed; brand comments and material prefix neutralised; source commit e7e803f"
+  },
+  {
+   "file": "assets/3d/earth.mtl",
+   "source_sha256": "73b86fbe2b7c700d9b8e9d231002e228b000fb15e8fd0527df672c000da1ec12",
+   "sha256": "cff7590271dfd7dec4631f285bb148d3cd3ed5d7fb580d9a4ab55422fa8698b1",
+   "note": "renamed; brand comments and material prefix neutralised; source commit e7e803f"
+  },
+  {
+   "file": "assets/3d/office_desk.obj",
+   "source_sha256": "ef47c4a12824a9e0d5d2827950ae373753325b0fe5e41b07398b78b2b75dc5d2",
+   "sha256": "b9367dfbd68db8da54a44bc09758f66b2653ecae2a5b5d160882a4d3ddfd0e43",
+   "note": "renamed; brand comments and material prefix neutralised; source commit e7e803f"
+  },
+  {
+   "file": "assets/3d/office_desk.mtl",
+   "source_sha256": "e6f2b2cfa897c2a98a90033a9d4eb5eaee80584f06a4b27edc46e471d9524753",
+   "sha256": "99f0e7ca9f6ab548a21fe2a57867f0ab111e400ce4277a162617620158691d7b",
+   "note": "renamed; brand comments and material prefix neutralised; source commit e7e803f"
+  },
+  {
+   "file": "assets/3d/bookshelf.obj",
+   "source_sha256": "bf45fdca50392e1f831a9c7bd5ea3c63e91bc6f8a457a8fa5d22fdc4d966f9c4",
+   "sha256": "0062e369e05bb8bb7cc631213d2172ba3be0ec71ba76d56f04b17919e8dc41de",
+   "note": "renamed; brand comments and material prefix neutralised; source commit e7e803f"
+  },
+  {
+   "file": "assets/3d/bookshelf.mtl",
+   "source_sha256": "4624a9e660b73827601604917ea8402c25d3c29b560e733081e97214e3ac9e7a",
+   "sha256": "7820e0953598f4ff67e82597fd62169abdf33462b47db123342ffdbba4abe6a6",
+   "note": "renamed; brand comments and material prefix neutralised; source commit e7e803f"
+  },
+  {
+   "file": "assets/3d/glass_cabinet.obj",
+   "source_sha256": "53e729e5f47b706a4f3091c3cc4301e28f93918f0f0af773287c70d3393d56cc",
+   "sha256": "45eb81e615c353203ec36a9d91de05425e08dde6eb44a22680cfe20a58ba2f51",
+   "note": "renamed; brand comments and material prefix neutralised; source commit e7e803f"
+  },
+  {
+   "file": "assets/3d/glass_cabinet.mtl",
+   "source_sha256": "92f5bd9dc161f78030e7d0965009b3fdd742826d18dd2e3fab0651ec3d616329",
+   "sha256": "8cd0136f6a9fc3c9473f80dd6b3853593bb96fa30eb55ff2eb5605ea2af76f62",
+   "note": "renamed; brand comments and material prefix neutralised; source commit e7e803f"
+  },
+  {
+   "file": "assets/3d/office_chair.obj",
+   "source_sha256": "631f0c88b1668744526469d2ee06a8b2d8f433735cbfc7cf39ae1970a770e415",
+   "sha256": "597ec9b5bfacee02d5699f480c3e212bc5781c55b7e5807c0b3981b8b11a1c2d",
+   "note": "renamed; brand comments and material prefix neutralised; source commit e7e803f"
+  },
+  {
+   "file": "assets/3d/office_chair.mtl",
+   "source_sha256": "dd6e3254fc92bb35191ef85e392da4978dcd3b413c0d25fb7508556bb22a4c88",
+   "sha256": "8bc73fee640826974f6ebcb20b3e5c7cb2580d2808e9de062c7278e71668aafc",
+   "note": "renamed; brand comments and material prefix neutralised; source commit e7e803f"
   }
  ]
 }
