@@ -149,8 +149,8 @@ function updateMicro(t) {
   reactorLight.intensity = 45 * g; mHemi.color.set(new THREE.Color('#b9a0ff').lerp(new THREE.Color('#ffb08a'), h));
   for (const [k, n] of Object.entries(nuclei)) {
     const s = SPLIT[k], split = s !== undefined && t >= s;
-    n.whole.visible = !split; n.fa.visible = n.fb.visible = split; n.root.rotation.set(.3 * Math.sin(t * .7 + n.root.position.x), t * .35 + n.root.position.y, 0);
-    if (!split && s !== undefined) { const pre = smooth(span(t, s - .1, s)); n.root.position.x = (NUC[k][0] - 540) / 100 + .03 * pre * Math.sin(t * 90); }
+    n.whole.visible = !split; n.fa.visible = n.fb.visible = split; const bx = (NUC[k][0] - 540) / 100, by = -(NUC[k][1] - 960) / 100; n.root.rotation.set(.3 * Math.sin(t * .7 + bx), t * .35 + by, 0);
+    const pre = (!split && s !== undefined) ? smooth(span(t, s - .1, s)) : 0; n.root.position.x = bx + .03 * pre * Math.sin(t * 90);
     if (split) { const u = span(t, s, s + .9), d = (26 + 70 * outBack(u)) / 100; n.fa.position.set(-d * .8, d * .5, 0); n.fb.position.set(d * .8, -d * .5, 0); n.fa.scale.setScalar(1 - .2 * u); n.fb.scale.setScalar(1 - .2 * u); }
     halos[k].material.opacity = (split ? .12 : .32) * (1 - .6 * smooth(span(t, 10, 11.4)));
     if (flashes[k]) { const f = split ? 1 - span(t, s, s + .4) : 0; flashes[k].material.opacity = f; flashes[k].scale.setScalar(.1 + 5.5 * f); }

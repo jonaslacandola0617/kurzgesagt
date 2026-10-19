@@ -4,7 +4,7 @@ Working repo for original, Kurzgesagt *inspired* illustrated science shorts (pre
 Full brief: `CLAUDE_PRODUCTION_PROMPT.md`. Read `EPISODE_STATE.md` before any work; it holds live status, decisions and the next action.
 
 ## Scope and authority
-- Work only in this repo. Do not modify the owner's previous channel repository; another agent works there.
+- **This is the only working repo.** Never edit, commit, push or open PRs in any other repository (`curio-bureau`, `kurzgesagt-v2`, `wordline-animation` or others); other agents work there. If something from another repo is needed, copy it into this repo and record its source commit and hash.
 - `reference/inherited-workflow/` holds inherited production workflow (timing, audio, captions, QA, archive, engine). The previous brand identity was removed from it on 19 Oct 2026; leftover style rules there (photographic/image-led layers, paper and film finishing, Sun preset, "legacy brand" ending) do **not** apply. Where it conflicts with this file, this file wins. Do not edit it to change policy.
 - Latest explicit owner instruction wins. No earlier approvals transfer to this channel.
 - No topic is selected. Do not write final narration, polished art or a film until the owner selects one. A recommendation is not a selection.
