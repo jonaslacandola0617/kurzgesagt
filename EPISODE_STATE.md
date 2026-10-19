@@ -48,6 +48,11 @@ Updated 2026-10-19 (Asia/Manila). Working repo `jonaslacandola0617/kurzgesagt` (
 2. **Mirror life:** a mirror image bacterium might evade immune systems and predators because recognition depends on molecular handedness. Adamala et al. 2024 Science, 10.1126/science.ads9158. Caveat: does not exist; expert risk assessment; at least a decade away; red lines debated.
 3. **The day the Sun held still:** atmospheric tide resonance may have held the day near 19.5 h from ~2 to 0.6 billion years ago. Wu et al. 2023 Sci Adv 10.1126/sciadv.add2499; Mitchell & Kirscher 2023 Nat Geosci. Caveat: Farhat et al. 2024 A&A 684:A49 finds the torque insufficient.
 
+## Pilot (owner decisions 19 Oct 2026, 19:49)
+- Direction: low poly 3D with owner's asset library, smooth 30fps (12fps stepped rule retired), content in the Kurzgesagt approach; owner's two vertical references set the animation style only.
+- Pilot: `pilots/oklo-3d-20261019/` reusing the Oklo topic (not an approved episode). Surface corrected for the era: bare rock, river, microbial mounds; the earlier style tests wrongly showed acacias and grass 2 billion years ago.
+- Working repo rule: only `kurzgesagt`; other repos are read only sources to copy from.
+
 ## Style tests (2026-10-19)
 - 2D illustrated: `qa/style-test-oklo-20261019/` (preview without narration archived).
 - Low-poly 3D: `qa/style-test-oklo-3d-20261019/` using owner's own low-poly asset library (7 models copied to `assets/3d/`, renamed). Owner to compare and choose a direction.
