@@ -1,0 +1,89 @@
+{
+ "source": "owner's own low-poly asset library (separate repository), commit e7e803f",
+ "files": [
+  {
+   "file": "assets/3d/acacia_tree.obj",
+   "source_sha256": "81f1fe72c5647f4ee5b4c5fc5ecda1ac28f01db57b1a0c4ef1e0ceeb76c3fe51",
+   "sha256": "b022698a1c546fb17a7b30d883e0779f619974268f5d4c20cda3c6f888968cbc",
+   "note": "renamed; brand comments and material prefix neutralised"
+  },
+  {
+   "file": "assets/3d/acacia_tree.mtl",
+   "source_sha256": "9e5598f47e28ef08562a19d7c64d4e869b3e75fd2ff5351e9b039b442700a7c5",
+   "sha256": "9e5598f47e28ef08562a19d7c64d4e869b3e75fd2ff5351e9b039b442700a7c5",
+   "note": "renamed; brand comments and material prefix neutralised"
+  },
+  {
+   "file": "assets/3d/grass_tuft.obj",
+   "source_sha256": "bd0fda0a82bf57dbdda89960d6ff0b26c220ba50b19b83c9682fcface2780d53",
+   "sha256": "b1481b922ddae7c6ace08280dbd252fa505091a96a8fc268bc8bfabcbf792f3f",
+   "note": "renamed; brand comments and material prefix neutralised"
+  },
+  {
+   "file": "assets/3d/grass_tuft.mtl",
+   "source_sha256": "b6ae308ded0792697800d6f58d62754f0f09454fff7755b4fd00432bac797e3c",
+   "sha256": "b6ae308ded0792697800d6f58d62754f0f09454fff7755b4fd00432bac797e3c",
+   "note": "renamed; brand comments and material prefix neutralised"
+  },
+  {
+   "file": "assets/3d/dry_scrub.obj",
+   "source_sha256": "6499f129c62bbb1287fceb16189fb56f3a11829db11201d72c83e807f69803d6",
+   "sha256": "3b789269695777d41c19e445372aad0c9d491d2124e8f8d2b09db7b2df8bf53a",
+   "note": "renamed; brand comments and material prefix neutralised"
+  },
+  {
+   "file": "assets/3d/dry_scrub.mtl",
+   "source_sha256": "967de3073f61ad53a90363f8a53133a9ed551067437410d6ed85c797dfcc274d",
+   "sha256": "967de3073f61ad53a90363f8a53133a9ed551067437410d6ed85c797dfcc274d",
+   "note": "renamed; brand comments and material prefix neutralised"
+  },
+  {
+   "file": "assets/3d/rock_small.obj",
+   "source_sha256": "17215ec60f631ff5ecb5d1f57cb0647f7c0cfa937e80542b7d8c2d767acda3da",
+   "sha256": "dc80730038fde793c438e3d1eb8b7a1c84cfc26fa14aec715196ae7813efea46",
+   "note": "renamed; brand comments and material prefix neutralised"
+  },
+  {
+   "file": "assets/3d/rock_small.mtl",
+   "source_sha256": "04e2c19fda1cc935f466a23ca3b0a12c22ffeea7bde50b1a0b4d9e3e73c4d451",
+   "sha256": "04e2c19fda1cc935f466a23ca3b0a12c22ffeea7bde50b1a0b4d9e3e73c4d451",
+   "note": "renamed; brand comments and material prefix neutralised"
+  },
+  {
+   "file": "assets/3d/boulder_large.obj",
+   "source_sha256": "e1ccb4edbdf0fcf03d18471a4748965e30437ecced4845f97d20013987a27bc3",
+   "sha256": "bfde8c6aca06b92096944fee4f02277903b08969d34ea1a2b10acaa32a711480",
+   "note": "renamed; brand comments and material prefix neutralised"
+  },
+  {
+   "file": "assets/3d/boulder_large.mtl",
+   "source_sha256": "60cbb651ea22afdb02063020ef0fa227748a97b556ed266ceedb4d78e9990aee",
+   "sha256": "60cbb651ea22afdb02063020ef0fa227748a97b556ed266ceedb4d78e9990aee",
+   "note": "renamed; brand comments and material prefix neutralised"
+  },
+  {
+   "file": "assets/3d/rock_cluster.obj",
+   "source_sha256": "9952cdddb10dfe18f747d9aa20bc01e519c7c42f8052e095595de9657bedcf04",
+   "sha256": "3d6cc2f9755d42e2003ebc7e65bfbe67adae94ccfc07501655fba40afbb325b9",
+   "note": "renamed; brand comments and material prefix neutralised"
+  },
+  {
+   "file": "assets/3d/rock_cluster.mtl",
+   "source_sha256": "60cbb651ea22afdb02063020ef0fa227748a97b556ed266ceedb4d78e9990aee",
+   "sha256": "60cbb651ea22afdb02063020ef0fa227748a97b556ed266ceedb4d78e9990aee",
+   "note": "renamed; brand comments and material prefix neutralised"
+  },
+  {
+   "file": "assets/3d/fractured_rock.obj",
+   "source_sha256": "17a4d8dbef408185a71ce3515ccdbf6f3081d71a736e23ccb49ca5fb424191cf",
+   "sha256": "511c2c0e7135796bb2d0dbb27f049387854dab51fbaeb45664b70dcddd0850bb",
+   "note": "renamed; brand comments and material prefix neutralised"
+  },
+  {
+   "file": "assets/3d/fractured_rock.mtl",
+   "source_sha256": "21bbae15e9adde207b4e8bbffc353918f72ec2f9d77fe173c0620347ed0e1857",
+   "sha256": "c13c715bf6744d1944c24448d2a19e82db2f2f69b654df014f8873a4823f0e15",
+   "note": "renamed; brand comments and material prefix neutralised"
+  }
+ ]
+}

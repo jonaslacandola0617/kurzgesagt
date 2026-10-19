@@ -31,7 +31,7 @@ Updated 2026-10-19 (Asia/Manila). Working repo `jonaslacandola0617/kurzgesagt` (
 
 ## Unresolved dependencies
 1. **New brand identity:** owner to decide name, ending, palette and headline typeface, or to run without an ending for the trial.
-2. **Narrator:** Bernard belonged to the previous channel. Owner to confirm whether to keep it (and whether ElevenLabs generation with the voice ID above is acceptable) or choose a new voice. Timing provisional until then.
+2. **Narrator:** owner chose to keep Bernard (19 Oct); generated via the ElevenLabs connection. Audio download needs owner help or `storage.googleapis.com` allowed.
 3. **Release archive:** Release creation blocked here; owner upload route needed before full film capture.
 4. **Preset validator:** build `illustrated-science-trial-v1` declaration/validator in `src/` (the inherited Sun validator rejects other presets).
 5. **Font licences:** add OFL text for Manrope; any new typeface needs owner approval.
@@ -47,6 +47,11 @@ Updated 2026-10-19 (Asia/Manila). Working repo `jonaslacandola0617/kurzgesagt` (
 1. **The reactor that breathed** (Oklo, Gabon): 2 billion year old natural fission reactors ran about 30 min on and 2.5 h off because their heat boiled away the water that sustained the chain reaction. Meshik et al. 2004 PRL 93:182302; U-235 ≈3% then vs 0.72% now (Shlyakhter). Caveat: impossible in natural ore today. **Recommended.**
 2. **Mirror life:** a mirror image bacterium might evade immune systems and predators because recognition depends on molecular handedness. Adamala et al. 2024 Science, 10.1126/science.ads9158. Caveat: does not exist; expert risk assessment; at least a decade away; red lines debated.
 3. **The day the Sun held still:** atmospheric tide resonance may have held the day near 19.5 h from ~2 to 0.6 billion years ago. Wu et al. 2023 Sci Adv 10.1126/sciadv.add2499; Mitchell & Kirscher 2023 Nat Geosci. Caveat: Farhat et al. 2024 A&A 684:A49 finds the torque insufficient.
+
+## Style tests (2026-10-19)
+- 2D illustrated: `qa/style-test-oklo-20261019/` (preview without narration archived).
+- Low-poly 3D: `qa/style-test-oklo-3d-20261019/` using owner's own low-poly asset library (7 models copied to `assets/3d/`, renamed). Owner to compare and choose a direction.
+- Bernard kept as narrator (owner, 19 Oct). Take `YsbpPU1Qo7w3mLeoY6rf` chosen for timing; download blocked here (storage.googleapis.com not allowed); owner to save it as `D:\channel-animation\style-test\bernard.mp3`.
 
 ## Next action
 Owner selects a topic, decides narrator, and says whether brand identity work comes first. Then: `episodes/<slug>/claims.csv`, script draft, preset validator. No production before selection.
