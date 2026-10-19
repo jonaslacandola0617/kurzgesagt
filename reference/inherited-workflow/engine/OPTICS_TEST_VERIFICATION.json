@@ -1,0 +1,177 @@
+{
+  "status": "TECHNIQUE REVIEW \u2014 OWNER APPROVAL PENDING",
+  "restored_from": "Saved engine v1 project plus optics recovery branch",
+  "default_regression": {
+    "frames": [
+      48,
+      297,
+      1170,
+      2196
+    ],
+    "comparison": "Exact native PNG hash match",
+    "hashes": [
+      "054b330a755b13b45652a9d399afe0991d053b794e450480ae121ed785eeaf51",
+      "1394509ac9911c528e4becf19a1a57f16a8b31ff2be0806b483e8cbae1d04c7c",
+      "30040c16e8e8cc0f49eb4921f83cf1e6798e08901c78ce705b784a7f2d5197e0",
+      "abaa081bc41a9a5bdea469d08cb53ef29add0f44a22a18dee6a8ff5ff4be5979"
+    ]
+  },
+  "pipeline": {
+    "native_encode": "PASS 30 frames in MP4, WebM and download MP4",
+    "unchanged_render_reuse": "PASS",
+    "audio_only_remux": "PASS",
+    "video_packet_hashes_unchanged_after_remux": {
+      "Channel_4K.mp4": "SHA256=32c3173ecc1018bc5b53fa5de88f9c100647b195bea9c35d0d9a9c770b06221d",
+      "Channel_4K_Download.mp4": "SHA256=f2c43b857f05ccd5644ac8a65cd92cc7327329a1a9820f8b2528bb34b74a64b0",
+      "Channel_4K.webm": "SHA256=8c597641b421d72ad098621f98e5cac79b3e5daae12d1e4597ab4694801684a3"
+    },
+    "encoder_change_invalidation": "PASS",
+    "visual_change_invalidation": "PASS",
+    "font_corruption_rejection": "PASS",
+    "scope": "One-second isolated fixture; not a new release master"
+  },
+  "motion": {
+    "frames": 384,
+    "maxFocusBlur": 5.992075377131877,
+    "cut": 9.92
+  },
+  "audio_pcm": {
+    "integrated_lufs": -13.53,
+    "true_peak_dbtp": -1.5
+  },
+  "generation_requests": 0,
+  "sound_cues_reused": 15,
+  "limits": [
+    "Default comparison covers four native checkpoints, not the whole film.",
+    "Technical checks do not certify owner creative or headphone listening approval.",
+    "Curves and Canvas effects are authored adaptations, not proprietary Vox or exact After Effects settings."
+  ],
+  "browser": {
+    "fonts": {
+      "HeadlineDisplay900": true,
+      "Manrope700": true
+    },
+    "pcm_nonzero_blocks": "EXACT_MATCH",
+    "play": {
+      "playing": true,
+      "t": 1.4106666666666665
+    },
+    "pause": true,
+    "scrub": true,
+    "replay": true,
+    "errors": [],
+    "full_browser_export": {
+      "recorded_entire_test": true,
+      "packet_duration": 12.957,
+      "full_decode": "PASS",
+      "audio": "48kHz stereo Opus",
+      "video": "1080x1920 VP8, browser-dependent cadence"
+    }
+  },
+  "optics": {
+    "solid_color_and_edge_padding": "PASS",
+    "samples": [
+      [
+        137,
+        167,
+        211,
+        255
+      ],
+      [
+        137,
+        167,
+        211,
+        255
+      ],
+      [
+        137,
+        167,
+        211,
+        255
+      ],
+      [
+        137,
+        167,
+        211,
+        255
+      ],
+      [
+        137,
+        167,
+        211,
+        255
+      ]
+    ],
+    "projected_anchor_peak": {
+      "t": 9.942400000000001,
+      "speed": 959.476331923383
+    },
+    "nearest_frame": 298,
+    "cut_frame": 298
+  },
+  "packaging_only_edit_preserves_preview_cache": "PASS",
+  "native": {
+    "status": "RENDER CANDIDATE",
+    "action": "render",
+    "outputs": {
+      "Channel_4K.mp4": {
+        "size": 158960643,
+        "width": 2160,
+        "height": 3840,
+        "frames": 384,
+        "duration": 12.8,
+        "full_decode": "PASS"
+      },
+      "Channel_4K.webm": {
+        "size": 94307585,
+        "width": 2160,
+        "height": 3840,
+        "frames": 384,
+        "duration": 12.808,
+        "full_decode": "PASS"
+      },
+      "Channel_4K_Download.mp4": {
+        "size": 77607765,
+        "width": 2160,
+        "height": 3840,
+        "frames": 384,
+        "duration": 12.8,
+        "full_decode": "PASS"
+      }
+    },
+    "creative_listening_caption_approval": "not inferred from technical checks"
+  },
+  "preview": {
+    "status": "RENDER CANDIDATE",
+    "action": "render",
+    "outputs": {
+      "Preview.mp4": {
+        "size": 54480974,
+        "width": 1080,
+        "height": 1920,
+        "frames": 384,
+        "duration": 12.8,
+        "full_decode": "PASS"
+      }
+    },
+    "creative_listening_caption_approval": "not inferred from technical checks"
+  },
+  "delivered_loudness": {
+    "Channel_4K.mp4": {
+      "integrated_lufs": -13.54,
+      "true_peak_dbtp": -1.5
+    },
+    "Channel_4K.webm": {
+      "integrated_lufs": -13.53,
+      "true_peak_dbtp": -1.36
+    },
+    "Channel_4K_Download.mp4": {
+      "integrated_lufs": -13.54,
+      "true_peak_dbtp": -1.5
+    },
+    "Preview.mp4": {
+      "integrated_lufs": -13.54,
+      "true_peak_dbtp": -1.5
+    }
+  }
+}

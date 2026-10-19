@@ -1,0 +1,11 @@
+{
+  "purpose": "Example only; replace all operations and duration with actual story actions",
+  "duration": 7.1,
+  "events": [
+    {"t": 0, "operation": "Show the surprising consequence", "understanding": "The viewer sees what is strange"},
+    {"t": 1.7, "operation": "Reveal the source or comparator", "understanding": "The contrast makes the question clear"},
+    {"t": 3.4, "operation": "Expose the mechanism", "understanding": "The hidden relationship is visible"},
+    {"t": 5.1, "operation": "Resolve the opening question", "understanding": "The first image now means something new"}
+  ],
+  "exceptions": []
+}

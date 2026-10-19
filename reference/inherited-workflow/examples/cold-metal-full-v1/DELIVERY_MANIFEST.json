@@ -1,0 +1,37 @@
+{
+  "status": "COMPLETE REVIEW PREVIEW, owner whole-film approval pending",
+  "release_id": 415609182,
+  "release_url": "the source repository",
+  "source_commit": "63e8cbcff89f99c8115a26efe9361a66a53d5a97",
+  "outputs": {
+    "POSTS.md": {
+      "bytes": 688,
+      "sha256": "e165e49fe798eb6acfe088d08786f50e9f0e64836c9bba27e4b3907cc41d8b02"
+    },
+    "Cold_Metal_Full_Review_720.mp4": {
+      "bytes": 47067754,
+      "sha256": "fc403b9e2c906d4adbbb8cc8704f2b400326871925e2d1d3c31eab0bfe831d81"
+    },
+    "Cold_Metal_Full_Review.srt": {
+      "bytes": 1177,
+      "sha256": "dde84ea55f21146a15c27880e0d91d64e1c89a783e182aa41a707310f74b54e6"
+    },
+    "Cold_Metal_Full_Source.zip": {
+      "bytes": 3649978,
+      "sha256": "772b90c86e57163cd4e7bfc0ac44a9d3841d481444d77ea30e3d8b4878dc5b8e"
+    },
+    "OUTPUT_QA.json": {
+      "bytes": 1263,
+      "sha256": "5ae4fe2a2fe52f4cc98c3b37c42e081e798a3e32f736ef5204af204d44631d55"
+    },
+    "QUALITY_SCORECARD.json": {
+      "bytes": 4213,
+      "sha256": "425b3bc10e992a001dd0a20a93c994c3bb435e4e20c25090f171713d53bff893"
+    },
+    "Full_Episode_Encoded_Review.jpg": {
+      "bytes": 436285,
+      "sha256": "db5a707681e3031be4693ad418b4c52f796c503fa23a6eac313b1304a9fe633e"
+    }
+  },
+  "native_4k": "NOT RENDERED; whole-film approval required"
+}

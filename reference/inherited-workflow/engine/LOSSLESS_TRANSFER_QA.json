@@ -1,0 +1,41 @@
+{
+  "results": [
+    {
+      "file": "transfer_png_test.mp4",
+      "decoded_rgb_sha256": "8bcbd3627679d56f45fa614d4d14761d8a15de4398cd55b50b1e02e8b0403178",
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "width": 2160,
+            "height": 3840,
+            "color_transfer": "iec61966-2-1",
+            "color_primaries": "bt709"
+          }
+        ]
+      }
+    },
+    {
+      "file": "transfer_test.mp4",
+      "decoded_rgb_sha256": "8bcbd3627679d56f45fa614d4d14761d8a15de4398cd55b50b1e02e8b0403178",
+      "metadata": {
+        "programs": [],
+        "streams": [
+          {
+            "width": 2160,
+            "height": 3840,
+            "color_transfer": "iec61966-2-1",
+            "color_primaries": "bt709"
+          }
+        ]
+      }
+    }
+  ],
+  "decoded_pixels_equal": true,
+  "source_native_pixel_equality_at": [
+    3,
+    10,
+    31
+  ],
+  "source_pixel_equality": "PASS"
+}

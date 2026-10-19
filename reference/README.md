@@ -1,0 +1,3 @@
+# Reference copies (read only)
+
+`inherited-workflow/` holds production workflow files inherited from the owner's previous channel on 19 October 2026: timing, delivery, archive and recovery standards, caption standard, 57 item acceptance templates, visual sequence method, motion research, the shared engine and a complete capture/mix pipeline example. The previous brand identity (name, tagline, palette, headline typeface, ending) was removed; the engine's `brand.js` is a neutral stub. Leftover style rules (image-led photography, paper/film finishing, Sun preset) are overridden by `../CLAUDE.md`. Do not edit these files to change policy.

@@ -1,0 +1,33 @@
+{
+  "change": "Owner-adopted native1080p default;4K optional",
+  "tests": {
+    "pre_render_gate": 22,
+    "delivery_profile_and_finishing": 3,
+    "result": "25 PASS"
+  },
+  "python_syntax": "PASS",
+  "node_syntax": "PASS",
+  "canonical_hashes": "PASS",
+  "default_profile": "posting",
+  "posting_resolution": [
+    1080,
+    1920
+  ],
+  "fps": 30,
+  "posting_video": {
+    "codec": "H264 High",
+    "target_mbps": 12,
+    "max_mbps": 16,
+    "buffer_mbps": 24
+  },
+  "audio": {
+    "codec": "AAC",
+    "sample_rate": 48000,
+    "channels": 2,
+    "bitrate_kbps": 320
+  },
+  "native_4k": "explicit --profile native retained",
+  "historical_outputs": "unchanged",
+  "cold_metal": "owner reports already uploaded; no new render requested/performed",
+  "scope": "unit/gate/syntax verification; no new end-to-end movie encoding claimed"
+}

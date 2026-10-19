@@ -1,0 +1,22 @@
+{
+  "cues": 32,
+  "sample_rate": 48000,
+  "format": "48k stereo WAV 24-bit",
+  "signal_qa": "PASS",
+  "creative_listening": "PENDING HUMAN REVIEW",
+  "categories": {
+    "reveals": 4,
+    "impacts": 4,
+    "tension": 4,
+    "transitions": 4,
+    "archival": 4,
+    "mechanical": 4,
+    "telemetry": 4,
+    "ambience": 4
+  },
+  "warnings": [
+    "These are procedural designed sounds, NOT real historical or archival field recordings",
+    "Existing Drive licensed stock library deliberately excluded",
+    "Listen on headphones and phone, and verify any sync inside each episode"
+  ]
+}

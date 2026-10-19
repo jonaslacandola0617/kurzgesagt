@@ -1,0 +1,24 @@
+{
+  "voice": "Bernard",
+  "model": "eleven_v3",
+  "sources": [
+    {
+      "file": "intro.mp3",
+      "task_id": "3d77cc90-52de-4104-b61e-319be27c5239",
+      "text": "These two spoons can be exactly the same temperature. But metal feels colder. How? Leave metal and wood in the same room long enough, and both settle to room temperature.",
+      "sha256": "5d61648a80be0a2bebd75940b9bc8419cef2539385193acac357d3adaecc2f68"
+    },
+    {
+      "file": "../motion-r2/audio/voice_original.mp3",
+      "task_id": "37575f5f-aea2-44d1-9e10-46cbe82388d2",
+      "text": "Your hand is warmer than the spoon. Touch it, and heat flows out of your skin. Metal carries that energy away faster than wood. Same starting temperature. Different heat transfer.",
+      "sha256": "5d78d8a7bc8b7fc3735163e81397771cc04e2d74b030098c93eaf3e7e87364d1"
+    },
+    {
+      "file": "outro.mp3",
+      "task_id": "74787d1b-352a-472a-9374-8a441a2f4824",
+      "text": "That colder feeling comes from your skin cooling faster. Wood takes heat away more slowly. Your hand isn't simply reading the spoon's temperature. It's responding to heat leaving your skin.",
+      "sha256": "0f512767eb47c20117ddc39eb8327ca318ae054ee0e002e9c3d5ba9e490605c9"
+    }
+  ]
+}

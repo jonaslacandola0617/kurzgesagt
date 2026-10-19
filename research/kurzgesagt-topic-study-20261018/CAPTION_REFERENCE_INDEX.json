@@ -1,0 +1,70 @@
+{
+  "purpose": "Private reference study only. Source-owned captions; not channel scripts or redistribution-cleared production assets.",
+  "count": 9,
+  "retrieved": "2026-10-18",
+  "items": [
+    {
+      "file": "kurzgesagt-amoeba-transcript.txt",
+      "bytes": 10312,
+      "sha256": "5b399a83d120c8e67a0f1e7700ed9a5d85ed2227da2b306dce06d13c47bc077b",
+      "source": "https://www.youtube.com/watch?v=7OPg-ksxZ4Y"
+    },
+    {
+      "file": "kurzgesagt-bacteriophage-transcript.txt",
+      "bytes": 6656,
+      "sha256": "02aad4c9d674345cbeae1ecf842a185a28197769543b768beacfd73c66268b19",
+      "source": "https://www.youtube.com/watch?v=YI3tsmFsrOg"
+    },
+    {
+      "file": "kurzgesagt-cosmic-void-transcript.txt",
+      "bytes": 8623,
+      "sha256": "a70a673adb41538ef807e2eba573ac476d9a9f8bd212539560b575bd49e1fc0c",
+      "source": "https://www.youtube.com/watch?v=yDAAlojz8NU"
+    },
+    {
+      "file": "kurzgesagt-dark-forest-transcript.txt",
+      "bytes": 9979,
+      "sha256": "24d8f9dce0f530dfb8fca26b3a481f023eb8eb55ec6bcf8ea19ef072ae2c1e34",
+      "source": "https://www.youtube.com/watch?v=xAUJYP8tnRE"
+    },
+    {
+      "file": "kurzgesagt-false-vacuum-transcript.txt",
+      "bytes": 6848,
+      "sha256": "8cec79bcd520193901d38248de4cec529ace64c6c01594b4edef057006e0d7bb",
+      "source": "https://www.youtube.com/watch?v=ijFm6DxNVyI"
+    },
+    {
+      "file": "kurzgesagt-great-filter-transcript.txt",
+      "bytes": 8441,
+      "sha256": "8a2cb785f2f6beb269d0b324ec8054bc896dbbd343e92482a41f9231af632be4",
+      "source": "https://www.youtube.com/watch?v=UjtOGPJ0URM"
+    },
+    {
+      "file": "kurzgesagt-interstellar-transcript.txt",
+      "bytes": 15044,
+      "sha256": "716c0f65d3b9b392b36c594dc2827787038e2d1ff42f877d6f67f55a0765d87f",
+      "source": "https://www.youtube.com/watch?v=Cyl3X88KEgg"
+    },
+    {
+      "file": "kurzgesagt-last-event-transcript.txt",
+      "bytes": 11111,
+      "sha256": "b80d0e3b2e10666b1b5ee6eaae42bddd002073d560a68e2d0b853caa64e34a97",
+      "source": "https://www.youtube.com/watch?v=FgnjdW-x7mQ"
+    },
+    {
+      "file": "kurzgesagt-strange-matter-transcript.txt",
+      "bytes": 7365,
+      "sha256": "a2069075f032a24febc9e3848b53280f55f5127e6c1873f11c5f03ad8fb4bfe0",
+      "source": "https://www.youtube.com/watch?v=p_8yK2kmxoo"
+    }
+  ],
+  "owner_direction": "19 October 2026 Asia/Manila: retain all nine original captions for later original films; proceed now with the black-dwarf supernova suggestion.",
+  "selection_status": "Black-dwarf supernova selected; other subjects retained as future candidates without a production order.",
+  "private_archive": {
+    "name": "channel_Kurzgesagt_Nine_Caption_References.zip",
+    "bytes": 40222,
+    "sha256": "c0292e52368720b39f43e7403968b496a7dd03f0d2e3cb5ff86bb6f7707b5cd9",
+    "status": "SAVED_PRIVATE_REFERENCE_ARCHIVE",
+    "contents": "nine caption files, source index and use notice"
+  }
+}

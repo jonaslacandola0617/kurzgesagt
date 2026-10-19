@@ -1,0 +1,319 @@
+{
+  "duration": 38.166666666666664,
+  "fps": 30,
+  "frames": 1145,
+  "intro_on": 0.18,
+  "mechanism_start": 11.033333333333333,
+  "outro_start": 24.383333333333333,
+  "payoff_start": 30.493333333333332,
+  "voice_end": 36.513333333333335,
+  "ending_start": 37.06666666666666,
+  "captions": [
+    {
+      "start": 0.18,
+      "end": 1.53,
+      "lines": [
+        "These two spoons can be"
+      ]
+    },
+    {
+      "start": 1.53,
+      "end": 3.23,
+      "lines": [
+        "exactly the same temperature."
+      ]
+    },
+    {
+      "start": 3.48,
+      "end": 5.14,
+      "lines": [
+        "But metal feels colder."
+      ]
+    },
+    {
+      "start": 5.52,
+      "end": 6.01,
+      "lines": [
+        "How?"
+      ]
+    },
+    {
+      "start": 6.269999999999999,
+      "end": 7.509999999999999,
+      "lines": [
+        "Leave metal and wood"
+      ]
+    },
+    {
+      "start": 7.509999999999999,
+      "end": 8.79,
+      "lines": [
+        "in the same room long enough,"
+      ]
+    },
+    {
+      "start": 8.87,
+      "end": 10.76,
+      "lines": [
+        "and both settle",
+        "to room temperature."
+      ]
+    },
+    {
+      "start": 11.293333333333333,
+      "end": 13.783333333333333,
+      "lines": [
+        "Your hand is warmer",
+        "than the spoon."
+      ]
+    },
+    {
+      "start": 14.263333333333334,
+      "end": 17.183333333333334,
+      "lines": [
+        "Touch it, and heat flows",
+        "out of your skin."
+      ]
+    },
+    {
+      "start": 17.53333333333333,
+      "end": 20.483333333333334,
+      "lines": [
+        "Metal carries that energy",
+        "away faster than wood."
+      ]
+    },
+    {
+      "start": 21.053333333333335,
+      "end": 22.513333333333335,
+      "lines": [
+        "Same starting temperature."
+      ]
+    },
+    {
+      "start": 22.71333333333333,
+      "end": 24.303333333333335,
+      "lines": [
+        "Different heat transfer."
+      ]
+    },
+    {
+      "start": 24.383333333333333,
+      "end": 26.183333333333334,
+      "lines": [
+        "That colder feeling comes from"
+      ]
+    },
+    {
+      "start": 26.183333333333334,
+      "end": 27.78333333333333,
+      "lines": [
+        "your skin cooling faster."
+      ]
+    },
+    {
+      "start": 28.073333333333334,
+      "end": 30.433333333333334,
+      "lines": [
+        "Wood takes heat away",
+        "more slowly."
+      ]
+    },
+    {
+      "start": 30.693333333333335,
+      "end": 31.943333333333335,
+      "lines": [
+        "Your hand isn't simply reading"
+      ]
+    },
+    {
+      "start": 31.943333333333335,
+      "end": 33.39333333333333,
+      "lines": [
+        "the spoon's temperature."
+      ]
+    },
+    {
+      "start": 33.653333333333336,
+      "end": 35.22333333333333,
+      "lines": [
+        "It's responding to heat"
+      ]
+    },
+    {
+      "start": 35.22333333333333,
+      "end": 36.47333333333333,
+      "lines": [
+        "leaving your skin."
+      ]
+    }
+  ],
+  "caption_status": "phrase timing estimated from measured source silences; not independently word-verified",
+  "events": [
+    {
+      "source": "audio/generated-editorial-v1/camera_move.mp3",
+      "sha256": "8a00c63afb05df5e6ce8db63a09876438a67ec2f21a1e0fdc61ac430a7412d5c",
+      "onset": 0,
+      "duration": 0.48,
+      "event": "metal/wood photographic comparison"
+    },
+    {
+      "source": "audio/generated-editorial-v1/ink.mp3",
+      "sha256": "65cd1bf59d3f2fc71e82b17d30b3d4c082c460caf3707cd6c761214541153331",
+      "onset": 1.55,
+      "duration": 0.2,
+      "event": "equal-condition baseline"
+    },
+    {
+      "source": "audio/generated-editorial-v1/marker_bold.mp3",
+      "sha256": "bb62cf4a6d88c51408424ac78776ef8316c06a4a8ee5e01a4495c201e862d183",
+      "onset": 3.35,
+      "duration": 0.28,
+      "event": "colder-feeling question"
+    },
+    {
+      "source": "audio/generated-editorial-v1/paper.mp3",
+      "sha256": "4b065ee6a42a5e9086e2f73083ac346de2c5a0283f118f80d7c99dfe6fdc9e60",
+      "onset": 6.08,
+      "duration": 0.35,
+      "event": "shared equilibrium comparison"
+    },
+    {
+      "source": "audio/generated-editorial-v1/pencil.mp3",
+      "sha256": "561c362d770b268544cfcdc463f4f3a92f15570514f443401118a29637c4369f",
+      "onset": 8.7,
+      "duration": 0.42,
+      "event": "equilibrium condition"
+    },
+    {
+      "source": "audio/generated-editorial-v1/camera_move.mp3",
+      "sha256": "8a00c63afb05df5e6ce8db63a09876438a67ec2f21a1e0fdc61ac430a7412d5c",
+      "onset": 11.033333333333333,
+      "duration": 0.5,
+      "event": "photographic approach"
+    },
+    {
+      "source": "audio/generated-editorial-v1/ink.mp3",
+      "sha256": "65cd1bf59d3f2fc71e82b17d30b3d4c082c460caf3707cd6c761214541153331",
+      "onset": 13.673333333333334,
+      "duration": 0.12,
+      "event": "contact ring closure"
+    },
+    {
+      "source": "audio/generated-editorial-v1/paper.mp3",
+      "sha256": "4b065ee6a42a5e9086e2f73083ac346de2c5a0283f118f80d7c99dfe6fdc9e60",
+      "onset": 13.833333333333332,
+      "duration": 0.34,
+      "event": "printed inspection launch and settle"
+    },
+    {
+      "source": "audio/generated-editorial-v1/pencil.mp3",
+      "sha256": "561c362d770b268544cfcdc463f4f3a92f15570514f443401118a29637c4369f",
+      "onset": 14.913333333333334,
+      "duration": 0.94,
+      "event": "three continuous qualitative heat-flow strokes"
+    },
+    {
+      "source": "audio/generated-editorial-v1/camera_move.mp3",
+      "sha256": "8a00c63afb05df5e6ce8db63a09876438a67ec2f21a1e0fdc61ac430a7412d5c",
+      "onset": 17.46333333333333,
+      "duration": 0.4,
+      "event": "registered comparison cut"
+    },
+    {
+      "source": "audio/generated-editorial-v1/marker_bold.mp3",
+      "sha256": "bb62cf4a6d88c51408424ac78776ef8316c06a4a8ee5e01a4495c201e862d183",
+      "onset": 18.03333333333333,
+      "duration": 0.4,
+      "event": "faster metal transfer"
+    },
+    {
+      "source": "audio/generated-editorial-v1/pencil.mp3",
+      "sha256": "561c362d770b268544cfcdc463f4f3a92f15570514f443401118a29637c4369f",
+      "onset": 19.07333333333333,
+      "duration": 0.46,
+      "event": "slower wood transfer"
+    },
+    {
+      "source": "audio/generated-editorial-v1/paper.mp3",
+      "sha256": "4b065ee6a42a5e9086e2f73083ac346de2c5a0283f118f80d7c99dfe6fdc9e60",
+      "onset": 20.773333333333333,
+      "duration": 0.24,
+      "event": "same-starting-condition tag"
+    },
+    {
+      "source": "audio/generated-editorial-v1/camera_move.mp3",
+      "sha256": "8a00c63afb05df5e6ce8db63a09876438a67ec2f21a1e0fdc61ac430a7412d5c",
+      "onset": 24.423333333333332,
+      "duration": 0.35,
+      "event": "skin response reframe"
+    },
+    {
+      "source": "audio/generated-editorial-v1/marker_bold.mp3",
+      "sha256": "bb62cf4a6d88c51408424ac78776ef8316c06a4a8ee5e01a4495c201e862d183",
+      "onset": 28.123333333333335,
+      "duration": 0.32,
+      "event": "wood slower-transfer selection"
+    },
+    {
+      "source": "audio/generated-editorial-v1/camera_move.mp3",
+      "sha256": "8a00c63afb05df5e6ce8db63a09876438a67ec2f21a1e0fdc61ac430a7412d5c",
+      "onset": 30.493333333333332,
+      "duration": 0.4,
+      "event": "resolve opening paradox"
+    },
+    {
+      "source": "audio/generated-editorial-v1/ink.mp3",
+      "sha256": "65cd1bf59d3f2fc71e82b17d30b3d4c082c460caf3707cd6c761214541153331",
+      "onset": 33.693333333333335,
+      "duration": 0.22,
+      "event": "heat-leaving insight"
+    }
+  ],
+  "source_records": [
+    {
+      "name": "intro",
+      "onset": 0.18,
+      "end": 10.91,
+      "samples": 515040,
+      "speech_time_stretch": false
+    },
+    {
+      "name": "mechanism",
+      "onset": 11.213333333333333,
+      "end": 24.013333333333335,
+      "samples": 614400,
+      "speech_time_stretch": false
+    },
+    {
+      "name": "outro",
+      "onset": 24.383333333333333,
+      "end": 36.513333333333335,
+      "samples": 582240,
+      "speech_time_stretch": false
+    }
+  ],
+  "silence_edits": {
+    "intro": [
+      [
+        5.89,
+        6.36
+      ]
+    ],
+    "outro": [
+      [
+        3.49,
+        3.7
+      ],
+      [
+        6.3,
+        6.68
+      ]
+    ]
+  },
+  "tail": {
+    "last_word": "skin",
+    "voice_fade": false,
+    "protected_tail_before_endcard": 0.5533333333333275
+  }
+}

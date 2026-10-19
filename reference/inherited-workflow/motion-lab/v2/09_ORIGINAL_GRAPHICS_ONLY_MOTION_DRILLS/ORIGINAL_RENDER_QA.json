@@ -1,0 +1,52 @@
+{
+  "status": "PASS: 8 original separately encoded moving clips; no reference footage. Creative art/retention equivalence NOT certified.",
+  "total": 8,
+  "fps": 30,
+  "resolution": [
+    540,
+    960
+  ],
+  "duration_each": 3.4,
+  "frames_each": 102,
+  "source": "independent authored Canvas rigs packaged separately; no original Vox video or graphics",
+  "tests": [
+    {
+      "id": "01_information_matrix",
+      "sha256": "2f10594def2647aeff6b332860db79dc3d139edc18aa2bbafc9c53daf13f6a59"
+    },
+    {
+      "id": "02_neutral_overlay_tracking",
+      "sha256": "469ae6b926ed31d5d47bc43023f2c4e5d435f1fe0d35a461e92ee3f66df9488f"
+    },
+    {
+      "id": "03_calibrated_threshold_scale",
+      "sha256": "8f776c7672977f260e197822b12c4c04236e1823367759cef2cca0e12c887d8d"
+    },
+    {
+      "id": "04_multicomponent_mechanism",
+      "sha256": "a1eaa345eef0006f0f8cd3ddcb1993e4e53a7f0361e377ea4fa2416fac3d87fa"
+    },
+    {
+      "id": "05_causal_path_graph",
+      "sha256": "0a7f6c2326d49c6d476dd8bd66a1567baf5a8aba33ff7e3b8dc8bcb5c9a60075"
+    },
+    {
+      "id": "06_data_to_mechanism",
+      "sha256": "b8bcf2e2104fc3dddc5b12684517382930f91ab9694c275f10860e4923ecb2e9"
+    },
+    {
+      "id": "07_source_highlight",
+      "sha256": "d5273e6877dbccd48100080fcd12e4186fa760501f2f29bd84a4d65cef9fed9d"
+    },
+    {
+      "id": "08_layered_map_anchors",
+      "sha256": "ee90b1de18939ec43d2df30722e4cadc674677d8e28169afe7c83bb075eb79a3"
+    }
+  ],
+  "limits": [
+    "No full independent subjective artwork panel",
+    "No word-to-cue audio verification",
+    "Not 4K masters",
+    "No actual Vox timeline/source projects recovered"
+  ]
+}

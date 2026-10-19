@@ -1,0 +1,11 @@
+{
+  "production_standard": "sun-disappeared-v1",
+  "scene_fps": 12,
+  "width": 1080,
+  "height": 1920,
+  "fps": 30,
+  "visual_style": "image-led",
+  "material_profile": "image-led-v1",
+  "brand_ending": "brand-ending-v1",
+  "motion_review_targets": "MOTION_REVIEW_TARGETS.json"
+}

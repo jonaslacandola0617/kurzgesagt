@@ -1,0 +1,66 @@
+{
+  "scope": "ENTIRE EPISODE, not representative passage",
+  "status": "COMPLETE PREVIEW \u2014 OWNER REVIEW PENDING",
+  "duration": 38.166666666666664,
+  "frames": 1145,
+  "owner_whole_film_approval": "PENDING",
+  "categories": {
+    "story_truth": {
+      "grade": "INTERNAL PASS",
+      "reason": "Claims within saved T1/T2 boundaries; equilibrium and warmer hand stated; no quantitative rate or experiment claim."
+    },
+    "visual_storytelling": {
+      "grade": "INTERNAL SAMPLED REVIEW",
+      "reason": "28 actual encoded states inspected across all scenes; compare \u2192 conditions \u2192 contact \u2192 rate \u2192 skin response \u2192 payoff."
+    },
+    "motion_continuity": {
+      "grade": "OWNER REVIEW PENDING",
+      "reason": "Entire continuous export exists; sampled transitions and difficult states inspected. No full normal-speed human playback certification."
+    },
+    "materials_finishing": {
+      "grade": "INTERNAL SAMPLED PASS",
+      "reason": "Visible image/print materials, grain and focus/blur in encoded phone-scale states; exact shared ending composited last."
+    },
+    "sound": {
+      "grade": "LISTENING REVIEW PENDING",
+      "reason": "Complete voice and score/effects buses; -13.86 LUFS and -1.36 dBTP. Meter results do not certify subjective listening."
+    },
+    "delivery_branding": {
+      "grade": "TECHNICAL PASS; OWNER REVIEW PENDING",
+      "reason": "Full decode1145frames;38.166667seconds;720x1280;30fps;AAC48k stereo; exact shared endcard source retained. GitHub receipt follows upload."
+    }
+  },
+  "known_findings": [
+    "Captions are estimated phrases, not independently word-verified.",
+    "No human headphone listening or whole-film owner approval is claimed.",
+    "Full preview is 720p review resolution; native 4K follows complete-film approval."
+  ],
+  "completed_internal_corrections": [
+    "Opening photographic subjects are visible at frame zero; arrival offsets reduced.",
+    "Opening spoon handle crop no longer crosses the equal-condition text.",
+    "Skin-response heading uses the actual background, avoiding an opaque patch over the old title.",
+    "Closing insight lines reveal in sequence; exact shared endcard composited after finishing."
+  ],
+  "canonical_hashes": {
+    "production/MASTER_PRODUCTION_BIBLE.md": "ccc87e2a0006593893bd79126fddcbf0c3b1cf9e2c9bd3ca02be447c61b55846",
+    "production/bible/v1.4/01_EDITORIAL_ART_AND_MOTION_DIRECTION_BIBLE.md": "155386755e7e5a82ab7008409714374436800495fbe2ad0542683d974f08e632",
+    "production/standards/PIG_WAR_R2_OWNER_APPROVAL.md": "d907744c101b7afc79cfff7c05d8870a584c57dcefa8ec1c010fbc803aaef6f0",
+    "production/standards/PAPER_IMAGE_OWNER_DIRECTION.md": "d03471db2c8769c26e222b11182945e91ff0d669e980260b13ef5d6bab04a1e4",
+    "production/art-direction/SCIENCE_PAPER_IMAGE_STANDARD.md": "9490ad570937eec09c7c8b88cc09bea76bd689c5de71e51fb723d1f81f2fd3fc",
+    "production/art-direction/SCIENCE_SHOT_ART_CONTRACT.md": "5f13003331e5ec635c4501221b373867f96e1184f1991d4e8a0bc2a681fcdccc",
+    "production/standards/IMAGE_LED_OWNER_DIRECTION.md": "81f87d819ddb7c52b9c50103fdca7f52757c3e06f2fedf3069d0462209a42fe4",
+    "production/standards/ASTRONAUT_HEIGHT_R2_OWNER_APPROVAL.md": "e4daf9bf476521b2b324a023780f83bf8caf6c1f60cb19caab48a6d8741a7756",
+    "production/art-direction/VISUAL_SEQUENCE_DIRECTION.md": "9ef1d47797dfd9eeadd3bbe58e6788040efed6853f1ce704a9c40e639e66c69c",
+    "production/art-direction/VISUAL_TRANSLATION_REVIEW.md": "5afa573874d7b020af7183cc22eac22e14c3f11fff88b744742a0ef9dc18a889",
+    "production/engine/FINISHING_OUTPUT_CONTRACT.md": "084ed9db167e60fb1797a63ad8cf56d7523277cf61986aebcdeabd2fe48a1631",
+    "production/engine/GITHUB_EXPORT_STORAGE.md": "c6c09f1f01b4f76019fd5f49963de8561c07bcd5f58d8631d7132bb4cefab5bf"
+  },
+  "audio_tail": {
+    "last_word": "skin",
+    "voice_fade": false,
+    "protected_tail_before_endcard": 0.5533333333333275
+  },
+  "recovery_findings": [
+    "Two damaged preview chunks detected by full assembly and repaired; all segment frame counts and full final decode now checked. Capture code now rejects incomplete chunks and final mux uses -xerror."
+  ]
+}

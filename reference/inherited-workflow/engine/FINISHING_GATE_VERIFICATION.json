@@ -1,0 +1,6 @@
+{
+  "native_proof": "PASS",
+  "missing_finishing_rejected": "PASS",
+  "stale_studio_rejected": "PASS",
+  "approved_historical_source_preserved": "PASS"
+}

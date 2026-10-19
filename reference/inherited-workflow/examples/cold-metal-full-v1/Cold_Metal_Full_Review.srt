@@ -1,0 +1,80 @@
+1
+00:00:00,180 --> 00:00:01,530
+These two spoons can be
+
+2
+00:00:01,530 --> 00:00:03,230
+exactly the same temperature.
+
+3
+00:00:03,480 --> 00:00:05,140
+But metal feels colder.
+
+4
+00:00:05,520 --> 00:00:06,010
+How?
+
+5
+00:00:06,270 --> 00:00:07,510
+Leave metal and wood
+
+6
+00:00:07,510 --> 00:00:08,790
+in the same room long enough,
+
+7
+00:00:08,870 --> 00:00:10,760
+and both settle
+to room temperature.
+
+8
+00:00:11,293 --> 00:00:13,783
+Your hand is warmer
+than the spoon.
+
+9
+00:00:14,263 --> 00:00:17,183
+Touch it, and heat flows
+out of your skin.
+
+10
+00:00:17,533 --> 00:00:20,483
+Metal carries that energy
+away faster than wood.
+
+11
+00:00:21,053 --> 00:00:22,513
+Same starting temperature.
+
+12
+00:00:22,713 --> 00:00:24,303
+Different heat transfer.
+
+13
+00:00:24,383 --> 00:00:26,183
+That colder feeling comes from
+
+14
+00:00:26,183 --> 00:00:27,783
+your skin cooling faster.
+
+15
+00:00:28,073 --> 00:00:30,433
+Wood takes heat away
+more slowly.
+
+16
+00:00:30,693 --> 00:00:31,943
+Your hand isn't simply reading
+
+17
+00:00:31,943 --> 00:00:33,393
+the spoon's temperature.
+
+18
+00:00:33,653 --> 00:00:35,223
+It's responding to heat
+
+19
+00:00:35,223 --> 00:00:36,473
+leaving your skin.

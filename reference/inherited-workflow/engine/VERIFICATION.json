@@ -1,0 +1,157 @@
+{
+  "status": "VERIFIED WORKING EXTRACTION",
+  "native_pixel_checks": {
+    "exact_rgb_matches": 22,
+    "resolution": [
+      2160,
+      3840
+    ],
+    "frames": [
+      0,
+      48,
+      165,
+      183,
+      297,
+      550,
+      564,
+      717,
+      840,
+      1020,
+      1170,
+      1260,
+      1380,
+      1570,
+      1695,
+      1815,
+      1911,
+      2001,
+      2070,
+      2196,
+      2241,
+      2264
+    ]
+  },
+  "moving_checks": {
+    "status": "PASS",
+    "results": [
+      {
+        "start": 4.7,
+        "frames": 45,
+        "exact_rgba_matches": 45
+      },
+      {
+        "start": 9.3,
+        "frames": 30,
+        "exact_rgba_matches": 30
+      },
+      {
+        "start": 17.95,
+        "frames": 45,
+        "exact_rgba_matches": 45
+      }
+    ],
+    "scope": "Every frame in selected transition ranges; not a whole-film frame comparison"
+  },
+  "audio": {
+    "mix_pre.wav": {
+      "sha256": "742d2886adc35bda164827e673df4e96e7edffbc7171ff14a39f8f3effba86c9",
+      "exact_match": true
+    },
+    "music_full.wav": {
+      "sha256": "98ccc77ecd7a82e6be1015c8a0f5aa2425f9d298ce180c6aeba028672b15e77a",
+      "exact_match": true
+    },
+    "sfx_full.wav": {
+      "sha256": "f043e49c0419a631e92c0647b544808e2617c7045e9d85442c30674bf4cab3a0",
+      "exact_match": true
+    },
+    "preflight_mix.wav": {
+      "sha256": "58f1b4d905b4775ee2f5aa7a5bf6cb1a79fcc2b4cac4b2b1f07e9f32b67f003b",
+      "exact_match": true
+    },
+    "scope": "Authoritative playback mix and three source stems match exactly. Legacy master_full.wav is an unreadable unused intermediate and is excluded from the benchmark and new package."
+  },
+  "pipeline": {
+    "native_encode": "PASS 30 frames in MP4, WebM and download MP4",
+    "unchanged_render_reuse": "PASS",
+    "audio_only_remux": "PASS",
+    "video_packet_hashes_unchanged_after_remux": {
+      "Channel_4K.mp4": "SHA256=fdc8a9341e93a75830df045f6ecc4d652e5a50d82ea2128dfe50b88974c81ae3",
+      "Channel_4K_Download.mp4": "SHA256=da4ce6d6474826a7f2403484e576da9eb75cca839a920d00e42df1056686a939",
+      "Channel_4K.webm": "SHA256=aa9e2339d2df08554fcdf763f93939a4babf9523181ccc99a1b0c095afe9eadb"
+    },
+    "visual_change_invalidation": "PASS",
+    "font_corruption_rejection": "PASS",
+    "scope": "One-second isolated fixture; not a new release master"
+  },
+  "browser": {
+    "duration": 75.682,
+    "streams": [
+      {
+        "codec_name": "vp8",
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0
+        },
+        "tags": {
+          "language": "eng",
+          "alpha_mode": "1"
+        }
+      },
+      {
+        "codec_name": "opus",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "channels": 2,
+        "disposition": {
+          "default": 1,
+          "dub": 0,
+          "original": 0,
+          "comment": 0,
+          "lyrics": 0,
+          "karaoke": 0,
+          "forced": 0,
+          "hearing_impaired": 0,
+          "visual_impaired": 0,
+          "clean_effects": 0,
+          "attached_pic": 0,
+          "timed_thumbnails": 0,
+          "non_diegetic": 0,
+          "captions": 0,
+          "descriptions": 0,
+          "metadata": 0,
+          "dependent": 0,
+          "still_image": 0
+        },
+        "tags": {
+          "language": "eng"
+        }
+      }
+    ],
+    "decode": "PASS with source timestamp timebase preserved",
+    "frame_source": "Existing approved film decoded to review JPEGs, supplied to the unchanged frame-cache export path. New renderer equivalence separately checked on 22 native frames and 120 moving frames.",
+    "cadence": "Device-dependent browser review; not a fixed-cadence master"
+  },
+  "scope": "Sampled native/moving equality and pipeline integration, not an all-2265-frame comparison or new full master render. No independent listening or caption word verification inferred.",
+  "original_project_changed": false,
+  "native_player_export_guard": "PASS; native capture surface remains unchanged; full browser export uses default preview"
+}

@@ -1,0 +1,68 @@
+{
+  "scope": "complete 38.17-second review, not native final",
+  "frames": 1145,
+  "size": [
+    720,
+    1280
+  ],
+  "fps": 30,
+  "duration": "38.166667",
+  "audio": {
+    "codec": "aac",
+    "rate": 48000,
+    "channels": 2,
+    "loudness": {
+      "input_i": "-13.86",
+      "input_tp": "-1.36",
+      "input_lra": "2.90",
+      "input_thresh": "-24.63",
+      "output_i": "-14.20",
+      "output_tp": "-1.69",
+      "output_lra": "2.40",
+      "output_thresh": "-24.83",
+      "normalization_type": "dynamic",
+      "target_offset": "0.20"
+    }
+  },
+  "full_decode": "PASS",
+  "sha256": "fc403b9e2c906d4adbbb8cc8704f2b400326871925e2d1d3c31eab0bfe831d81",
+  "bytes": 47067754,
+  "sampled_encoded_frames": [
+    0,
+    0.4,
+    1.3,
+    3.5,
+    5.8,
+    6.1,
+    6.6,
+    8,
+    10.8,
+    11.2,
+    13.7,
+    14.2,
+    14.6,
+    15.5,
+    17.5,
+    18.4,
+    19.3,
+    20.5,
+    23,
+    24.5,
+    25.5,
+    28.5,
+    30.5,
+    31.5,
+    34,
+    36.3,
+    37.2,
+    37.8
+  ],
+  "closing_tail": {
+    "last_word": "skin",
+    "voice_fade": false,
+    "protected_tail_before_endcard": 0.5533333333333275
+  },
+  "caption_timing": "estimated phrase timing, not word-verified",
+  "owner_whole_film_review": "PENDING",
+  "human_headphone_listening": "NOT CLAIMED"
+}

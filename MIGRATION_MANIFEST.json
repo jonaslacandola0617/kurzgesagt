@@ -1,0 +1,1115 @@
+{
+ "note": "Workflow files inherited from the owner's previous channel repository on 2026-10-19 (source commits 791c871, e40a2ab, 7a2768f). Previous brand identity removed at owner request; files marked byte_identical_to_source=false were renamed or scrubbed. The source repository was not modified.",
+ "files": [
+  {
+   "path": "CLAUDE_PRODUCTION_PROMPT.md",
+   "sha256": "35f0c40ead62e7f13cf4b40aa45eee6a0b08d3f13cbc7725a72c4491d660346a",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "assets/fonts/Manrope.ttf",
+   "sha256": "3ae11c49db0455a3cc33e37d380f20fdb8c7f8b41dc07625c177e3d87a9d6ae6",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "assets/fonts/Manrope800.ttf",
+   "sha256": "5cc241f748ddb8ebf9bce7ca92d9bd996820482465238ae2f8f188f05a945105",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/docs/AUDIO_INVENTORY.md",
+   "sha256": "be0a6d778be6e0839526f391880ed396b95b433d99a3b99bdc01125bba11dd45",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "audio/docs/VOX_SOUND_RESEARCH_2026_10_13.md",
+   "sha256": "c4c49e4dc2abe2f358c599a4e4cf6f805fc938b0cdf129cd8b641d406e6a777d",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "audio/docs/sfx-v1/LIBRARY_AUDIT.md",
+   "sha256": "4904d2c2db620469ccf05f3c62095e4d6aa4cd22fa40f7750e330aa3b45506fa",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "audio/docs/sfx-v1/README.md",
+   "sha256": "26cd114d48c9d45736c8369679845216b2c37316c7d88ac5ba3a9bfff2125f53",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "audio/docs/sfx-v1/SOUND_DIRECTION_GUIDE.md",
+   "sha256": "ad86bfd0b42d30c207c83257ab2f622983cd3643ba6a25fba5ca5bb624fdcb23",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "audio/docs/sfx-v1/generate_pack.py",
+   "sha256": "291293f53a6b3ac850d85fd520d86d918858343fb8a17f2c2eaf9c0b8f87f1b1",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "audio/free-editorial-20261013/CATALOG.csv",
+   "sha256": "aaa05f7777719e9c3f5af455c853629e919258e95347d342b2d4aac47518365c",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "audio/free-editorial-20261013/CATALOG.json",
+   "sha256": "4269d422b23ce3a9eadfee3d88b7a9b4d8d0f17f63195c2bd7652851f0e30285",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "audio/free-editorial-20261013/README.md",
+   "sha256": "85dc8e28d3f738a7a53b6784415a5acf95696687559a9d3e6b1a6b9f6a08b405",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/free-editorial-20261013/fetch.py",
+   "sha256": "b7c38425b86d9b7ab01de8ab2bc4b2e2e637c60c14c49777f1a27dc697793e9b",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "audio/generated-editorial-v1/CATALOG.json",
+   "sha256": "50a06583734e014414e83654ba6011cd6baea7fa315fa2aa48256cd9b62c8685",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/generated-editorial-v1/README.md",
+   "sha256": "7c464dc0b0400d18d2b510977f527f8325a5fafa91a7d032329f844316d9a23a",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/generated-editorial-v1/camera_move.mp3",
+   "sha256": "8a00c63afb05df5e6ce8db63a09876438a67ec2f21a1e0fdc61ac430a7412d5c",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/generated-editorial-v1/garden_foley.mp3",
+   "sha256": "dbc86ecef3f784322581fb626fe23d55fa6434f6cc848a0cc605603611a709b0",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/generated-editorial-v1/ink.mp3",
+   "sha256": "65cd1bf59d3f2fc71e82b17d30b3d4c082c460caf3707cd6c761214541153331",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/generated-editorial-v1/marker_bold.mp3",
+   "sha256": "bb62cf4a6d88c51408424ac78776ef8316c06a4a8ee5e01a4495c201e862d183",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/generated-editorial-v1/paper.mp3",
+   "sha256": "4b065ee6a42a5e9086e2f73083ac346de2c5a0283f118f80d7c99dfe6fdc9e60",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/generated-editorial-v1/pencil.mp3",
+   "sha256": "561c362d770b268544cfcdc463f4f3a92f15570514f443401118a29637c4369f",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/generated-editorial-v1/projector.mp3",
+   "sha256": "4a24c23fedce7dd8d36d7abd13d64c8ffd7f342888cc27ae057b2676d21e67f5",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/CATALOG.csv",
+   "sha256": "41b0c35b1e95acf19f3e4ffca35a307090bfb0c6c6cc6c2595bc3c842d93e95f",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/CATALOG.json",
+   "sha256": "297d21d3e5d589620393ab9b593027e7e203686b271fd20332590d3f2cc5e4eb",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/LICENSE.txt",
+   "sha256": "620a78c4d8e9e4c6e1899f392319b4f19c5fc04949144b039d01c18e118dd8ce",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "audio/original-sfx-v1/QA.json",
+   "sha256": "750abd50a3c3a6073abbb9826de23f7a3da7a6c4d255532ed7c1f6aba5b0362b",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/README.md",
+   "sha256": "367950a1cfb1298613b697e5c3cc918c98ae75dd618398ccc216e723f6542faa",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "audio/original-sfx-v1/generate_sfx.py",
+   "sha256": "6a751757865517df80e9085c82caa3f20a6a22c00df172e546062fcf9964b7bd",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/ambience__control_room_low.wav",
+   "sha256": "fced09bc4f1e92c52a0d13c74fa6b4041d65b70abd8438d30c7b32fa3ab5a3ca",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/ambience__cosmic_low_tension.wav",
+   "sha256": "5dd0342895ec266e6e8c7f17f9ec609f38e51d593a1c5929fa120d58035c88ae",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/ambience__distant_engine_room.wav",
+   "sha256": "b09c1997e9d5117641a2af90fdefe2a750653e6d8bf85356c33fb5bbac5f0d38",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/ambience__electrical_hum.wav",
+   "sha256": "b41dbc9267915a33f42d4623e1b8aaf5e6284dbe93324220e35d6fc2d82b4afa",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/archival__document_stack.wav",
+   "sha256": "833ba45f8f0d2442dde95115966bd5fb387d1cb98b4680d78c5c09a6a4e13721",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/archival__old_projector.wav",
+   "sha256": "b71fca145a1243d2f2a7e0e065dac2d26ef88795db74343dbf6ad7806024971c",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/archival__paper_rustle.wav",
+   "sha256": "5332b776dc263386cde0a1a733761217030579d8830d11d678ec4772fcd53424",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/archival__pencil_underline.wav",
+   "sha256": "bd4de414ed6aafefe6cc58f47c5f4b94f4e7de43917780eb105251bcd83dcd7d",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/impacts__deep_consequence.wav",
+   "sha256": "42bc6bc7bfdbb9682f6345b7c4e3655fec38fc28ecfe82dd8faefb58f05c2c24",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/impacts__evidence_stamp.wav",
+   "sha256": "1f4a094acfd46fe7f526fb9ad84d45c97353ae993ad76bf7b2b72a844186193e",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/impacts__first_frame_punch.wav",
+   "sha256": "7127eb18ee47ebd61752273b1721e4eaf9cd4e6fb95af865d140f902a0733962",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/impacts__mechanical_snap.wav",
+   "sha256": "3173d4083e416721e4b406d842a82b86adfc41aaabaafade1bada639a0e98e68",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/mechanical__gears_rotation.wav",
+   "sha256": "05abd632aac8d1cd758b5d40759aabb2e34063994c732cdc75f1a63dfc0b69c2",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/mechanical__hydraulic_release.wav",
+   "sha256": "d54365b99735ca4a2dc307a51e36b57cc9a8b61db5b2755da53c8748c317f9ee",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/mechanical__latch_small.wav",
+   "sha256": "ee1740b1dca72c9759af5242926290d1194059ece23856fbe42a095b00ba8acb",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/mechanical__ratchet_cycle.wav",
+   "sha256": "be6a6e59becc274cea79985681bbaccc8694089351a536a51a31d2a012956ed5",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/reveals__answer_glint.wav",
+   "sha256": "36e5925278b0fe2f8d6ea97043f67d3d5635aeed98c1696b5d86e0600f19469a",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/reveals__final_resolution.wav",
+   "sha256": "93a69676d79793b2cc2e11a4e0902cd7ac98a0038d4f9dbf15c7768691c43f06",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/reveals__ominous_discovery.wav",
+   "sha256": "b13230525d80d010a520c1aaef0763ae4e0b07d5d6b222f92f4805988cc26897",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/reveals__question_motif.wav",
+   "sha256": "813e0f02c48baacf097986e4a3f444b2b7c4450d857de0132146d0ec8dcbfde1",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/telemetry__data_transfer.wav",
+   "sha256": "ca9ce95e2eb393d9023be08c739e83236240ff754d9740deffad7f67ea589e77",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/telemetry__receiver_ping.wav",
+   "sha256": "19b28e39d37c97b355d584d1b7a6069c4e50c4a3f85b2b28adefef704609a112",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/telemetry__signal_dropout.wav",
+   "sha256": "670f4532c96ac98a877916cb4c84afecfdc9b3eece756cc46d9781a0a57ce1ce",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/telemetry__unit_mismatch.wav",
+   "sha256": "ede41da4b79634d94c29e8443400dd3b2f91b62e36a9d6714baaed3d887dab7b",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/tension__countdown_accelerating.wav",
+   "sha256": "8d60f8bf604b3ad9b9141c7c2c2fdd6d96cda0be045046bb72b3c6e9e2c1c694",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/tension__heartbeat_subtle.wav",
+   "sha256": "d104eaba55d849da9071c5bec72b0fae62c0adde8492b737b6e49633ecd891ea",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/tension__riser_long.wav",
+   "sha256": "380b5fdf363374ddf266a29b490119e620e89c9a3116c19116926ed6334d3719",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/tension__riser_short.wav",
+   "sha256": "6c23091308a410f2ef6e2c67c241b941fb258d2c92e20fd1e7f0c1a614eea92d",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/transitions__air_parallax.wav",
+   "sha256": "b76f32f6de32f7c0e2619609c723ef97c52be140a734bc09019754d45d34309a",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/transitions__paper_camera_push.wav",
+   "sha256": "9d77c258520d31a4096ad3a550a7138bd666c7dee0d46d5bb18d9c0b0bfba287",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/transitions__quick_reframe.wav",
+   "sha256": "8a6239c0a9cb41c8a63a1163de4ad80bb33279a6b9a027f889c00d03a39492df",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/original-sfx-v1/wav/transitions__reverse_pull.wav",
+   "sha256": "98b42c36203c92e01fd8ce61e0217a5c850cc03596d853b30e824d78c4ad6e92",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/BUILD_QA.json",
+   "sha256": "1daa6d1177a614ae3eaa3fb63a7684e2ff6d6b9ca71bee311c45d50225dbbfae",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "audio/sfx_v1/CATALOG.csv",
+   "sha256": "490bf8a9780061fc9d09a5c41b7dbb17cb2e2c56142a277911acf82b5028e789",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "audio/sfx_v1/CATALOG.json",
+   "sha256": "e703a82f0535d4d7b6706a561569dda4b24d672fa2132d541d6eea4cf9bbdcee",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "audio/sfx_v1/SFX_V1_AUDITION.mp3",
+   "sha256": "a664591ffe4f76071c325ba886bb8cce7e84176ba3e6593119670149b30b9690",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/ambient/SFX_AMBIENT_archive_room_v1.flac",
+   "sha256": "377f254e672aa1b2ac5213899948587f34e3eb9a466be37a06531fa2656e2570",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/ambient/SFX_AMBIENT_cavern_lowwind_v1.flac",
+   "sha256": "2eb330b216962740bfb984c0591266d684725808c9fe9478b46a5d3c89121df4",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/ambient/SFX_AMBIENT_mission_control_v1.flac",
+   "sha256": "1f8b80f5204b5c2b5778b99d45c48d63883586f5318b0c18ae5c4fb1fba69c42",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/ambient/SFX_AMBIENT_radio_noise_bed_v1.flac",
+   "sha256": "91afa9e42cf7c7c9db6b659fb96d7e216d4c55f83e5ad1adddd130ca87b2d35a",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/ambient/SFX_AMBIENT_workshop_floor_v1.flac",
+   "sha256": "2cd18c250c9fa7a719dfdf4035334ca5a1cc25cb4b28fcc03264e8c4439033b1",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/archive/SFX_ARCHIVE_document_stamp_v1.flac",
+   "sha256": "b216e05aa2d93241f43d9ccab1719428f88b223dc09dadd75ddbb8299246ad76",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/archive/SFX_ARCHIVE_microfilm_spool_v1.flac",
+   "sha256": "a762ff28a5df45133c931892a05abc3232c21c9b1ad39bf7f09fd6721c320dd0",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/archive/SFX_ARCHIVE_paper_heavy_turn_v1.flac",
+   "sha256": "0b9b2381d6591354351c8a512a042ff38bc2edac529cd7d66575e0b54f8b345f",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/archive/SFX_ARCHIVE_paper_light_turn_v1.flac",
+   "sha256": "1c7af42ac9bf774cdf7d3faa92769fb157f0e16f1808491688a43b5493ef2aee",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/archive/SFX_ARCHIVE_pencil_marks_v1.flac",
+   "sha256": "9d968f49a8b8218125552cddc71770376f9d18d638c07fab6dcdf57526792f10",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/archive/SFX_ARCHIVE_photo_slide_v1.flac",
+   "sha256": "94b14a03751ed3c2840faa74f1423e5a7692802e0542ef43a2ec9437227535a3",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/archive/SFX_ARCHIVE_tape_reel_start_v1.flac",
+   "sha256": "223eb3f4390eb7b812fbf54043ec422eb5d446e040a5ff883026b995818dc33f",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/archive/SFX_ARCHIVE_typewriter_cluster_v1.flac",
+   "sha256": "6fb3e317a250f41e5c2fc67eba94e76e8b20a1621e2764308adae9c04ebae860",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/cinematic/SFX_CINEMATIC_investigative_sting_v1.flac",
+   "sha256": "4d0c67e836077cb9615f04877dedb73662f862701d9576b0217042e5f66c20e4",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/cinematic/SFX_CINEMATIC_low_cinematic_hit_v1.flac",
+   "sha256": "e9ef4f8875ad5d102b4dea2cc50f57e14121c2020c7c9006ec77b14a2e89ae24",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/cinematic/SFX_CINEMATIC_micro_emphasis_v1.flac",
+   "sha256": "477c33e0caa4313d8cb7bc0e1decdfc2fd15b161c7c2b8bcb719f16b84adc1b2",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/cinematic/SFX_CINEMATIC_restrained_boom_v1.flac",
+   "sha256": "0f8ed588c6c31aa27d3634ef7b39acb5709831b959bc4366aaa2b9aa282b11fa",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/cinematic/SFX_CINEMATIC_suspense_riser_v1.flac",
+   "sha256": "36f58ac6922190c293303434a089bc81b5d0823542595e4d6e8015de1cd203ba",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/cinematic/SFX_CINEMATIC_warm_resolution_v1.flac",
+   "sha256": "a4d570c121795464235f6f888b42beda1a162a5937c3c527e6141ab2534be27a",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/editorial/SFX_EDITORIAL_causal_reveal_v1.flac",
+   "sha256": "3913dfb99f87c3f662191afe15eae7f35da595d842481cd255c412cb4e0ed538",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/editorial/SFX_EDITORIAL_discovery_chime_v1.flac",
+   "sha256": "5ccfbca8261f4e703d437d249e4b2b6c47c05fe756fc2e834d29056e9f5a252f",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/editorial/SFX_EDITORIAL_doubt_tick_v1.flac",
+   "sha256": "3037b29ca0dd9f8414de398b2db402d825039da4ff15946350064bcdb5fd94e1",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/editorial/SFX_EDITORIAL_evidence_lock_v1.flac",
+   "sha256": "aead89bf782fdbb66e266828cecd9c7535e49a59476df368e31d9eb05fdd4262",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/editorial/SFX_EDITORIAL_hard_fact_punctuate_v1.flac",
+   "sha256": "4cb9f9354bd8b1d448bc0f5a2101cd24e81bddc8a6671cf3a2a3a1ba3604a838",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/editorial/SFX_EDITORIAL_heartbeat_breath_v1.flac",
+   "sha256": "114a0072e80e4f0a0399865eb76b1fcd036665a61cd936638345d56f21a0fd42",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/editorial/SFX_EDITORIAL_quiet_resolution_v1.flac",
+   "sha256": "722a3e6056cbc743dd18138d2708f796c838278bbb3f0ff1cb1ab79ab79a5a5b",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/editorial/SFX_EDITORIAL_turn_of_story_v1.flac",
+   "sha256": "286df9526bbd5322ef700085e4aaa2f53cccd3fd3e72b2739dce90aaeb87d505",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/mechanical/SFX_MECHANICAL_cable_tension_v1.flac",
+   "sha256": "b934def84c475853e000d9e81e51f74f353e872e32d3bc628f87bdcedd1dd72b",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/mechanical/SFX_MECHANICAL_gear_ratchet_v1.flac",
+   "sha256": "7db1bc06130fb64208641df464e7decf64d44d4fd61756f50eaeb92b06f3c20f",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/mechanical/SFX_MECHANICAL_heavy_hinge_v1.flac",
+   "sha256": "04780f5ee97c4fe51d84fd110a06b28eda24222bc4cc5a29e72cc6fe234d863e",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/mechanical/SFX_MECHANICAL_metallic_rivet_v1.flac",
+   "sha256": "aff97703c7669a1c5ce3bce21c5d4760d6671c5f4c07a7de8915263ce0e22d45",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/mechanical/SFX_MECHANICAL_screw_jack_turn_v1.flac",
+   "sha256": "2f105580d5ec7592788452b6e27d88ebbfc65d639743ebde680e6aa965f26cb5",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/mechanical/SFX_MECHANICAL_steel_latch_v1.flac",
+   "sha256": "88fa8039b4d1955a73d35980c8cb95840ee799874ad090442035a59ab911182b",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/mechanical/SFX_MECHANICAL_wheel_roll_v1.flac",
+   "sha256": "c610336c541af218fb3170640b927b561332f0767fd1a152a4c80693b7b905ea",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/mechanical/SFX_MECHANICAL_wood_stress_v1.flac",
+   "sha256": "0fffdba6537e9e9dbc0915b1d7d3c582cc306bd9b305c695ce9561088d6de04a",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/motion/SFX_MOTION_cut_match_v1.flac",
+   "sha256": "58a965cb511c6bb5efc745f438b14e1b727958655a59784e2da9bee841584890",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/motion/SFX_MOTION_document_focus_v1.flac",
+   "sha256": "59b641d105683bff434cdfc54592ebee1cff0f33ea0c62927161580687e87846",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/motion/SFX_MOTION_map_route_draw_v1.flac",
+   "sha256": "fee15dba6b483a9bd61f57492ba58857ad3acbadf68475fe45bb2850ee495992",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/motion/SFX_MOTION_parallax_swish_v1.flac",
+   "sha256": "cf811cd552fad696bbc099ab3754add546034f1c892af5516c02b919e54180b0",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/motion/SFX_MOTION_perspective_whip_v1.flac",
+   "sha256": "cf59cbedffd1617bf3962f9c4f6e151ca84d91a86a3bbbe048d8375ee4eba211",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/motion/SFX_MOTION_soft_depth_pass_v1.flac",
+   "sha256": "0e9b66b3db679e689e2ad980881a2e862f3b82353d9ed0fb348d46078ca13b16",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/motion/SFX_MOTION_tiny_mask_reveal_v1.flac",
+   "sha256": "299b44657c88f12d22e126cd1e68b4420dacd229441d86c984be6b0e7024a7c6",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/science/SFX_SCIENCE_data_pulse_v1.flac",
+   "sha256": "78a2fc3465651e248dbc7a432a0736a1d9af50b726ab15e3d71aae84ad809ee7",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/science/SFX_SCIENCE_lost_signal_v1.flac",
+   "sha256": "f2d880e3f831814f233c6b8bad9ad2928ef1e5b9bf3e487cfe03358fe0b395d6",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/science/SFX_SCIENCE_mission_contact_v1.flac",
+   "sha256": "cc45aec266db5b7bc36805be3c47208e316bfb0e47fc53c2644b993c30213c7f",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/science/SFX_SCIENCE_radar_sweep_v1.flac",
+   "sha256": "cd6b4b0ea1af465d8216333a920ec94849c73f3a850072e823193a867ef8bb46",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/science/SFX_SCIENCE_radio_search_v1.flac",
+   "sha256": "f6c1e49d7d6bae231280fc3237c937f4dc011a3f9c0f4dd287bf42a967b6a365",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/science/SFX_SCIENCE_telemetry_ping_v1.flac",
+   "sha256": "a93d755094ece0ca9452e4249c129297ae0b80c90fa8d0940627ed485cc48c65",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/science/SFX_SCIENCE_terminal_error_v1.flac",
+   "sha256": "4403e705e892abe057d2904ff0182cb46a3bce5b4869135b13b328f47147fd39",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "audio/sfx_v1/science/SFX_SCIENCE_unit_mismatch_v1.flac",
+   "sha256": "61b2d937a58106cf2aa215d1918df072cd58892816eb43ee2bd331064ad908b2",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "qa/pipeline-test-20261019/README.md",
+   "sha256": "37b93ed78be8409d36244a4154089907d35ed48d3525754ad1742df8ca7c8e73",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "qa/pipeline-test-20261019/RESULTS.json",
+   "sha256": "f6e5407a3306289fb017db9b756c2c5ebf99edec03c2e62e126e305495fefe1b",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "qa/pipeline-test-20261019/cap.mjs",
+   "sha256": "6b320e5ff106a099b2a5c91aa677a1f80b810dec378605f7c7412f71314ff2dd",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "qa/pipeline-test-20261019/index.html",
+   "sha256": "581de489fc15d502392344124691f3ef5b39c01d99fc79d7392c6371393f4ac2",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "qa/pipeline-test-20261019/pipeline-test-20261019.mp4",
+   "sha256": "e6eb441a249930cd3e0393018d296217fbe599befec42f0c3cdccfbaea41b5b7",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/CENTER_CAPTION_STANDARD.md",
+   "sha256": "7d1c08e2f8a4959a1b96ebe27343324192e3512163703576707c74bca22bcc66",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/art-direction/CLEAN_TEXT_GRAPHICS_20261018.md",
+   "sha256": "5b23abeefed5542603f771d702817a4fcd33c10dbf357f7dfa88ca5ac4522753",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/art-direction/SCIENCE_SHOT_ART_CONTRACT.md",
+   "sha256": "75cad6d308a565b74a2427d838eceb02c0036d3d589df9371d974ffa3aa8baf1",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/art-direction/VISUAL_SEQUENCE_DIRECTION.md",
+   "sha256": "bb70e653e922308f33f4df6ba840e50367a9add33eca8a664ff13a34cba1b01a",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/art-direction/VISUAL_TRANSLATION_REVIEW.md",
+   "sha256": "5afa573874d7b020af7183cc22eac22e14c3f11fff88b744742a0ef9dc18a889",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/engine/.gitignore",
+   "sha256": "a7d3ec2efb2be8ee8da74403ec1b1bc0ab32cbe92efabe5aca57aa5b2c7613b4",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/engine/ACTIVE_PRODUCTION.md",
+   "sha256": "bc1608b743531a2f06c37d4c80e6e6268b9107ab96761a83c2e49e59e70c10a9",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/DELIVERY_1080P_STANDARD.md",
+   "sha256": "438d18677b65a45ae77f97e80b64cff5e283955ac3891f66b67c1d50add74a66",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/DELIVERY_1080P_VERIFICATION.json",
+   "sha256": "c38e028a4ba0acfd50b7e424ceee019280338005f381fdeb1bbc969658789ec1",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/engine/FINISHING_CHECKLIST.md",
+   "sha256": "e01fcf36cd3a009e8a95f22cc22ff8058cf4fafa9990c1c8526f6c25a9139916",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/FINISHING_GATE_VERIFICATION.json",
+   "sha256": "4a02d99b0978e071b34d11cc776170d0ec09fe42f5bcd17c676b8641367726f0",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/engine/FINISHING_OUTPUT_CONTRACT.md",
+   "sha256": "ddd27e6c3a41ecbb2cbf478565ecb056f5ea9d92922fb8a249115e28999a3799",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/GITHUB_EXPORT_STORAGE.md",
+   "sha256": "b3c59b985f77a0ec98a67a293b474c1b68fb3e0dc29b4a8e7744dbea1fb8472e",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/LOSSLESS_TRANSFER_QA.json",
+   "sha256": "1b54071fd5772b8a2d5c38d6eb3d57829eb7a5e3c51f3959762d7da34baebf28",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/engine/NARRATION_TAIL_QA.md",
+   "sha256": "f5d003f290f47cad1e68388bb3fd41ebc0dd228eade2d565125c0e66b4455f2c",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/engine/NATIVE_RENDER_RECOVERY.md",
+   "sha256": "1825ff221e9b55e6de9c16393e8a82b694e7dd43a51dbf0f165b9c72be6cd25a",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/engine/OPTICS_TEST_VERIFICATION.json",
+   "sha256": "142151c7d1c2d1335e036cc39f47237b86f34637af090d7ec6d57d45d7dbf37d",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/README.md",
+   "sha256": "41e9c2cf874b089c2950eda1fc5e752ec452581bd5e70b0682bc84f58e521ac0",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/RECOVERY_STATE.md",
+   "sha256": "8b015a4e2f81866e75281244fd3acf70488e0f959bb6c86aa1037d351a029084",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/SUN_STANDARD_INTEGRATION.md",
+   "sha256": "b565400bb92ee065e5ced615d6d052c9c8f7bf8f42dbcdaa2c534aed77dd0544",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/SUN_STANDARD_VERIFICATION.json",
+   "sha256": "c2d83414d6259dc2047e0a5acda2c11b822c40f0758332a3b6973c9807866dbf",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/engine/TUTORIAL_OPTICS_2026_10_13.md",
+   "sha256": "82f98518c70d4846f989732c315e51c3bc6ded1e8f10e377116ab38c3d28555d",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/VERIFICATION.json",
+   "sha256": "2fa855c09a68e49ac696eaba2d557d66c7e18f47764dacde33e96d55ce683316",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/audio.py",
+   "sha256": "ae3bdcdf82f0cf4aecadc67563908295090c26f6d0107437c25c1a8c4e1b1185",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/engine/browser/brand.js",
+   "sha256": "703af889668f80c2363b6079ea1856301bc086bb019b1c6e01e092af224bec33",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/browser/drawing.js",
+   "sha256": "e7893b1d419eb35e654bdfe88d77803c16b3638f9f5eb81d8f4abd5b2a7e83bf",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/browser/editorial-finish.js",
+   "sha256": "375cffe03057ad0585a53378288f01372ccee219955afbbb5585a535ab8ed67e",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/browser/finishing.js",
+   "sha256": "13a864e618dff2efb00d3f1294fb3398764f6982b38a7067a5fa238c51dfbb20",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/browser/focus.js",
+   "sha256": "657f36421fc838fb91c268d29cd1b390022365d2cc148796d847ffe43e91e7d6",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/browser/frame.js",
+   "sha256": "348b167169e62700f7b58ca8b945a5ac9619aabc504f300e8f231813171c8bdc",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/browser/material-profile.js",
+   "sha256": "911719208d0126da60c786c4b47c9313b8a5bb36371742440ac90bb73d5586b8",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/browser/materials.js",
+   "sha256": "745b79e6fb37eecd71af523b842acc57058c36604467c5df4922f21a1de5fc8b",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/browser/motion.js",
+   "sha256": "ab50fc87dc8615fd4299dfbd3ac4cd04ec829b89e1fbe1274a468129aa8e9946",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/browser/optics.js",
+   "sha256": "d81e371b552461591bd22e98f3b2d34b071f13dd8978a249b32181d1b950e574",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/browser/player.css",
+   "sha256": "85272385baf109e75de65f0bd17461584f0271ca33f1ebfc0238ed1a9f13f5d9",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/browser/player.js",
+   "sha256": "87439b1abbce5c3432a64d17b660fbf40c7fe2889ea07444ad076b5b9311a760",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/engine/browser/runtime.js",
+   "sha256": "f0cb07f3b341c582035bd95ba5647763bd1eba467c032d2f13716867a23480c7",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/browser/studio.html",
+   "sha256": "a7b7d2aede0a1295a6dbf051c5d1bd188cec1aecc6a2c8e62039d7f1b33f5900",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/browser/typography.js",
+   "sha256": "f8fb80470f74444592c5a37c4d83ab52d0eefe665502b3ff08c805eb3396445a",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/finishing_audit.py",
+   "sha256": "969e420f08f683200ec119c223e97804161addb57ef4a79a1062e437af305915",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/engine/finishing_contract.py",
+   "sha256": "ed45f96232181c368b8c07d9aeb7dadb70c30c57b3832d877cb4f0923ba5a3f7",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/pipeline.py",
+   "sha256": "322c08e7c85e18aa3ccbbdc92c4598e5acb9d3f5b30598c0cb4837b13023f342",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/pre_render.py",
+   "sha256": "456703adb7a7a95ab6389ec897ed1fc5f3364010437f176cd36a00b20afdf97c",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/production_standard.py",
+   "sha256": "7307ad117cef96d0611316bdb105f57c6bb59ba1a1806ed1f8c646487ad1e49a",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/requirements.lock.json",
+   "sha256": "23e90cf6db29ea5bdad337c7214940f62db57c66786bd3f0f38d46b5d937d020",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/sequence.py",
+   "sha256": "4339ec69640e1ebf2b1e1affe4d0ebd9c963a2a50da739d0a1486dcd184a33ab",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/tests/sun-cadence.cjs",
+   "sha256": "029748f18999842b278e59f9ed98264cff9103a231e0cc3c08280f0fec3e5906",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/tests/test_production_standard.py",
+   "sha256": "0b45831570af57d8412bf8ecdbdd297307d55d02921808e6b44531b2beabdc54",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/tools/check_motion.cjs",
+   "sha256": "ccc5e74d55be9f1634a48b89f0576f93476b1f3516998882daf4c18de2e048a8",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/tools/check_optics.cjs",
+   "sha256": "4d82ba6c3f193742fba85df87ded0fca970297a436fa33188f76242ae8e034f6",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/tools/compare_motion.cjs",
+   "sha256": "43279c8a849675272506ebcf10f49e75d3e07961314bef37237cd29529918afa",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/engine/tools/regression.cjs",
+   "sha256": "e13dcd4d6a5979ee169c51c4d1e7bef6c2cf0ea89f163536f1911ad07b1a83a7",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/tools/render.cjs",
+   "sha256": "4b4e51d8482413fc8afcd55a0b4958de6cee94a90801ac05bdb9c2328cb4c7f6",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/engine/tools/test_delivery_finishing.py",
+   "sha256": "069a5f835fdf5dc5328dd58a88efc6f7928e12957fa41372b794b9f2f41a38d4",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/tools/test_finishing_audit.py",
+   "sha256": "71de44e96df5f4be58d4cf13ebaa2652e2cfb5fd8f13f8bfbdd1879e0ec76358",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/engine/tools/test_pipeline.py",
+   "sha256": "01b502827548c71bd48f663ae89da395dc7679ad2f32eff04cd452cb92a12331",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/engine/tools/test_pre_render.py",
+   "sha256": "a5935ed7801c1e5fb52e0f4245a77ee8bd7d55a4388d76047e40a15fae0e6260",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/examples/bernard-narration-source.json",
+   "sha256": "065666c44019f1b259dce920f8bc1088970ec3331c73f3baf59877eceefc4344",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/examples/cold-metal-full-v1/Cold_Metal_Full_Review.srt",
+   "sha256": "dde84ea55f21146a15c27880e0d91d64e1c89a783e182aa41a707310f74b54e6",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/examples/cold-metal-full-v1/DELIVERY_MANIFEST.json",
+   "sha256": "dfe40895b825928ee7a7444f2c561fc0a11a66139e55fc4572df63c2b6e7d3b7",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/examples/cold-metal-full-v1/NARRATION.txt",
+   "sha256": "9283ed210320f5163cff4983c0144bdb3a0b2cd4b345c720d046a58026d4b0ff",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/examples/cold-metal-full-v1/NARRATION_SOURCE.json",
+   "sha256": "71eb5e310bee92091fd888f0ceb27ce843ddcd220ef7660f49ade82f1a26c87c",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/examples/cold-metal-full-v1/OUTPUT_QA.json",
+   "sha256": "5ae4fe2a2fe52f4cc98c3b37c42e081e798a3e32f736ef5204af204d44631d55",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/examples/cold-metal-full-v1/QUALITY_SCORECARD.json",
+   "sha256": "02b20b526457aabe9df5cf4a6025de9ef839f76eccdadabfbc087d2cfc022151",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/examples/cold-metal-full-v1/README.md",
+   "sha256": "9a898f380d10e12e67856fa26a3d713f5afafb16c8de306a4d6ec1875ec803d9",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/examples/cold-metal-full-v1/SEQUENCE_PLAN.md",
+   "sha256": "67e854faf557f8277b2b04961ee6c7db57ba098cf0bd9f4456f4bc96b88aab13",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/examples/cold-metal-full-v1/SFX_CUE_SHEET.json",
+   "sha256": "c5863810b0e4314852522f6cfd50f1913b2e9254e881a70366dd6d91435c9a38",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/examples/cold-metal-full-v1/capture.py",
+   "sha256": "3ff42bc1f9d65754adb7aab0a8a604e0f3f4b68ce3ea3843a25cabf04cdb0e1e",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/examples/cold-metal-full-v1/mix.py",
+   "sha256": "98e253e7eae1f50bc0e6fcacd237326f88e2e1ced99a0b360e95447065cf4f5a",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/examples/cold-metal-full-v1/recover_capture.py",
+   "sha256": "acc9602937319e9a5243a15c40439f009756bac348f4ae5c83c1b2c728050901",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/examples/cold-metal-full-v1/render.cjs",
+   "sha256": "8dcfde4950ea4b651ea962b58dfc0996b6b38b9697f431fa1be9ee52996e75e7",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/examples/cold-metal-full-v1/scene-core.cjs",
+   "sha256": "4179e717d6b4bdb257a53e9b175210e912a0b61ae25efbe6c1e081e0e1a8fe18",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/examples/cold-metal-full-v1/timeline.json",
+   "sha256": "2c9252eb0e11cd0a60329748d2d0a52c948e7724beb84aac16332b6af4f83ea5",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v1/02_FRAME_BY_FRAME_MOTION_FORENSICS.md",
+   "sha256": "cc8470eda06bd6c69e30c0fa7b010920a3b711f2360f9479eb18156d6b81f889",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v1/06_TRANSFERABLE_MOTION_TECHNIQUE_LIBRARY.md",
+   "sha256": "34830ac8ccc12506cb05db93caf5f3811f9c615e41b21aa242eaddc6a6a618c3",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v1/09_ANIMATION_ENGINEERING_COOKBOOK.md",
+   "sha256": "929dc9382ed00e2444b9d80b2ecb5693d60a9098a90a6faa94fce67534bb8c05",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v1/README.md",
+   "sha256": "a83a72ebc61d1fafa3d30bc0d37e32c241619587d1e7da66ecf0e51c2e93b4a4",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/00_SCOPE_PROVENANCE_AND_FOOTAGE_EXCLUSION.md",
+   "sha256": "011340f92519ed6e6f1a539a71bc1f9df0e3c376c2361b1e070e4cf7416a572e",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/01_VOX_GRAPHICS_ONLY_SEGMENT_ATLAS.md",
+   "sha256": "6b68ec8b1b2d34888827c0ad36696e39db3cfccc92d7487d7fcc4f1fb7561c14",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/02_GRAPHIC_MOTION_XRAY_FORENSICS.md",
+   "sha256": "ac07c8ad7029cbca048a1c552fe4ac1e00d95005a18fec6eaf2e76f88440d564",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/03_KINETIC_TYPE_AND_COMPOSITION_ENGINEERING.md",
+   "sha256": "c713f88cd1b4ad54401e18b48a95dbf3325bcbe585333ecbeeefc7b23f5280a6",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/04_MAP_DIAGRAM_AND_VECTOR_MORPH_ENGINEERING.md",
+   "sha256": "c713f88cd1b4ad54401e18b48a95dbf3325bcbe585333ecbeeefc7b23f5280a6",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/05_LAYERED_CAMERA_25D_MASK_AND_OVERLAY_TRACKING.md",
+   "sha256": "c713f88cd1b4ad54401e18b48a95dbf3325bcbe585333ecbeeefc7b23f5280a6",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/06_ANIMATION_CURVES_TIMING_AND_GRAPHIC_TRANSITIONS.md",
+   "sha256": "c713f88cd1b4ad54401e18b48a95dbf3325bcbe585333ecbeeefc7b23f5280a6",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/08_TRANSFERABLE_GRAPHIC_TECHNIQUES_V2.md",
+   "sha256": "f6c37cc3a32de1d37257a05da25802d10da90da008820baf9d0af87a12ca5bed",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/09_ORIGINAL_GRAPHICS_ONLY_MOTION_DRILLS/ORIGINAL_RENDER_QA.json",
+   "sha256": "02d5d752d1d791cff8ae3d47b316ecf77b267aa05a074a71ef49f05088927d6f",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/09_ORIGINAL_GRAPHICS_ONLY_MOTION_DRILLS/README.md",
+   "sha256": "bfc8b7ccfa3fc9ae7945e89567bd61b04ad3d14290088517cddd815adfb72f25",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/10_MOTION_GRAPHICS_ENGINE_V2_SPEC.md",
+   "sha256": "4b9d460223302003768cd89a0454d1d3dfeca5c8aea886c927321451e21990a4",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/11_MOBILE_CAPTION_AND_MOTION_QA.md",
+   "sha256": "c32542b6c302c7f543322722120b3f46c2d8c2166317fa4f710b34080e150204",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/EXCLUDED_FOOTAGE_AUDIT.csv",
+   "sha256": "deb610e1cd7fefb30e792ef8b5dfa5403377207e36250847f6493068ead5df4c",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/GRAPHICS_ONLY_SEGMENTS.csv",
+   "sha256": "95c31a5d35e250ede9521b495d50784be74fcbde880ffafd208bc3a4034fab47",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/GRAPHIC_TECHNIQUE_INDEX.csv",
+   "sha256": "16ce1ac2399869da9619a0734b3360d6dd401f74ea1c91e46b440b810cea3335",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/GRAPHIC_XRAY_EVIDENCE_INDEX.csv",
+   "sha256": "c4c8e74875c49eb6b048efe97baf15da98254944bd0eff0333d0ce39e8416754",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/README.md",
+   "sha256": "2628c0476973b5b69b3f4ba041f13481915e2e7265111a51486cfddea4d929a1",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/motion-lab/v2/SOURCE_REFERENCES_AND_CONFIDENCE.csv",
+   "sha256": "df9f28705c4250a0d19bac61b7f920e5d90845c7b1bef6737b62a4ce1a07bb05",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/standards/INHERITED_PRODUCTION_STANDARD.md",
+   "sha256": "29111cd00c9b88875af930de8174b8d5fc9f26210665b086fdde62201adcb41b",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/templates/sun-standard/ACCEPTANCE_REQUIREMENTS.json",
+   "sha256": "d226b54a604a39af147a1b4d4d77838755d12f36ee86c57fa36a59b684086506",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/templates/sun-standard/CHECKLIST_COVERAGE_AUDIT.json",
+   "sha256": "91347a14a15097cd12b897167e9bd1492cc6c4771807715c480fad82fff4e628",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/templates/sun-standard/MOTION_REVIEW_TARGETS.example.json",
+   "sha256": "86fcfeb69085801004570adbaf2229e77303628c591ca5321cb5db1ecf5cb7ec",
+   "byte_identical_to_source": true
+  },
+  {
+   "path": "reference/inherited-workflow/templates/sun-standard/RELEASE_CHECKLIST.md",
+   "sha256": "9358e4fa4225fd02dc40b7b0d3454c47628d430e301dbde46239475350dc95b1",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "reference/inherited-workflow/templates/sun-standard/episode-standard.json",
+   "sha256": "56ccaf346da7729689e5cb7b03d89feef73d8f050d582af1e66ec20be3229e73",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "research/kurzgesagt-topic-study-20261018/CAPTION_REFERENCE_INDEX.json",
+   "sha256": "bc091a954f681e77366cd1f33e6743bdb627b1e976da1998f6bd403408c4b132",
+   "byte_identical_to_source": false
+  },
+  {
+   "path": "research/kurzgesagt-topic-study-20261018/README.md",
+   "sha256": "11dc52756d92b30b954aa0a56ca17b4738f2c1e1cb58b998b49d10f916fcc5a2",
+   "byte_identical_to_source": false
+  }
+ ]
+}

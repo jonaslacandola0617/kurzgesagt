@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-18",
+  "owner_adopted": true,
+  "standard": "sun-disappeared-v1",
+  "python_validator_tests": 13,
+  "python_validator": "PASS",
+  "browser_dispatch": {
+    "frames": 1485,
+    "source_states": 594,
+    "scene_fps": 12,
+    "ending_fps": 30,
+    "random_seek": "PASS",
+    "historical_continuous_time": "PRESERVED"
+  },
+  "python_compile": "PASS",
+  "requirements_hashes": "MATCH",
+  "approved_media_changed": false,
+  "limits": [
+    "No new film rendered for infrastructure changes",
+    "Dispatcher tests are timing checks, not full browser picture validation",
+    "No independent listening or reference-study pass inferred"
+  ],
+  "source_benchmark_commit": "30cea6213c2d5a6005c8595ce1e8ddb21aaccdf2",
+  "approved_mp4_sha256": "966628a14ab6df44b978ed6a13b25ac3cf13671dc8d25b1c5e223e347242c9cf"
+}

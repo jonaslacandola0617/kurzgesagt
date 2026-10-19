@@ -1,0 +1,6 @@
+renders/
+frames/
+node_modules/
+__pycache__/
+*.tmp
+.DS_Store

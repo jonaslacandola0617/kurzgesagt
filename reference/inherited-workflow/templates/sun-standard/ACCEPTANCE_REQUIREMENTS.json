@@ -1,0 +1,476 @@
+{
+  "schema": 1,
+  "origin": "Owner-pasted Sun acceptance checklist, reaffirmed 18 October 2026 at20:49 Asia/Manila",
+  "scope": "Original checklist was temporary for the Sun experiment. Later explicit owner approval adopted the film’s craft as the future baseline. Preserve this provenance; do not turn a topic-specific item into an automatic pass for unrelated subjects.",
+  "items": [
+    {
+      "id": "1.1",
+      "section": 1,
+      "section_title": "Topic and storytelling",
+      "requirement": "Build around a bizarre scientific “what if” with understandable stakes.",
+      "verification": "Review actual encoded opening and complete narrative alongside sourced claims; cite timecodes and what the viewer learns.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "1.2",
+      "section": 1,
+      "section_title": "Topic and storytelling",
+      "requirement": "Open with a compelling mystery or contradiction rather than a textbook definition.",
+      "verification": "Review actual encoded opening and complete narrative alongside sourced claims; cite timecodes and what the viewer learns.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "1.3",
+      "section": 1,
+      "section_title": "Topic and storytelling",
+      "requirement": "Make the opening image and narration immediately reinforce each other.",
+      "verification": "Review actual encoded opening and complete narrative alongside sourced claims; cite timecodes and what the viewer learns.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "1.4",
+      "section": 1,
+      "section_title": "Topic and storytelling",
+      "requirement": "Deliver useful information early, then deepen the question.",
+      "verification": "Review actual encoded opening and complete narrative alongside sourced claims; cite timecodes and what the viewer learns.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "1.5",
+      "section": 1,
+      "section_title": "Topic and storytelling",
+      "requirement": "Develop an escalating chain of consequences instead of listing disconnected facts.",
+      "verification": "Review actual encoded opening and complete narrative alongside sourced claims; cite timecodes and what the viewer learns.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "1.6",
+      "section": 1,
+      "section_title": "Topic and storytelling",
+      "requirement": "Use visual metaphors, comparisons and changes of scale to explain difficult concepts.",
+      "verification": "Review actual encoded opening and complete narrative alongside sourced claims; cite timecodes and what the viewer learns.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "1.7",
+      "section": 1,
+      "section_title": "Topic and storytelling",
+      "requirement": "Resolve the opening question with a satisfying payoff.",
+      "verification": "Review actual encoded opening and complete narrative alongside sourced claims; cite timecodes and what the viewer learns.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "1.8",
+      "section": 1,
+      "section_title": "Topic and storytelling",
+      "requirement": "Clearly distinguish the impossible premise, established science and uncertain extrapolation.",
+      "verification": "Review actual encoded opening and complete narrative alongside sourced claims; cite timecodes and what the viewer learns.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "2.1",
+      "section": 2,
+      "section_title": "More motion and more changes",
+      "requirement": "Introduce a meaningful visible change every 1.5–2 seconds throughout the explanatory sequence.",
+      "verification": "Inspect moving encoded compositions and joins at normal speed and phone size; record actual operation intervals, independent layer/camera changes, readable holds and exits.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "2.2",
+      "section": 2,
+      "section_title": "More motion and more changes",
+      "requirement": "Include substantial object animation—not merely photographs entering and then sitting still.",
+      "verification": "Inspect moving encoded compositions and joins at normal speed and phone size; record actual operation intervals, independent layer/camera changes, readable holds and exits.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "2.3",
+      "section": 2,
+      "section_title": "More motion and more changes",
+      "requirement": "Use movement within compositions: separation, assembly, replacement, transformation, tracking and progressive reveals.",
+      "verification": "Inspect moving encoded compositions and joins at normal speed and phone size; record actual operation intervals, independent layer/camera changes, readable holds and exits.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "2.4",
+      "section": 2,
+      "section_title": "More motion and more changes",
+      "requirement": "Use purposeful camera pans, close-ups, pullbacks and changes of viewpoint.",
+      "verification": "Inspect moving encoded compositions and joins at normal speed and phone size; record actual operation intervals, independent layer/camera changes, readable holds and exits.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "2.5",
+      "section": 2,
+      "section_title": "More motion and more changes",
+      "requirement": "Build obvious parallax through independently moving foreground, subject and background layers.",
+      "verification": "Inspect moving encoded compositions and joins at normal speed and phone size; record actual operation intervals, independent layer/camera changes, readable holds and exits.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "2.6",
+      "section": 2,
+      "section_title": "More motion and more changes",
+      "requirement": "Connect scenes through recognizable objects, directions or ideas.",
+      "verification": "Inspect moving encoded compositions and joins at normal speed and phone size; record actual operation intervals, independent layer/camera changes, readable holds and exits.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "2.7",
+      "section": 2,
+      "section_title": "More motion and more changes",
+      "requirement": "Give each action an intentional start, acceleration, arrival and reading hold.",
+      "verification": "Inspect moving encoded compositions and joins at normal speed and phone size; record actual operation intervals, independent layer/camera changes, readable holds and exits.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "2.8",
+      "section": 2,
+      "section_title": "More motion and more changes",
+      "requirement": "Preserve enough reading time for essential text and scientific relationships.",
+      "verification": "Inspect moving encoded compositions and joins at normal speed and phone size; record actual operation intervals, independent layer/camera changes, readable holds and exits.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "2.9",
+      "section": 2,
+      "section_title": "More motion and more changes",
+      "requirement": "Fully remove departing elements; prevent accidental overlaps and clipped labels.",
+      "verification": "Inspect moving encoded compositions and joins at normal speed and phone size; record actual operation intervals, independent layer/camera changes, readable holds and exits.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "3.1",
+      "section": 3,
+      "section_title": "The 12fps experiment",
+      "requirement": "Evaluate scene and camera animation at 12 distinct states per second.",
+      "verification": "Check source state scheduling and frame sequence; review stepped playback, continuous decoded audio and exact ending separately.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "3.2",
+      "section": 3,
+      "section_title": "The 12fps experiment",
+      "requirement": "Export at 1080 × 1920, 30fps, scheduling those states by time.",
+      "verification": "Check source state scheduling and frame sequence; review stepped playback, continuous decoded audio and exact ending separately.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "3.3",
+      "section": 3,
+      "section_title": "The 12fps experiment",
+      "requirement": "Keep narration, music and SFX continuous and synchronized.",
+      "verification": "Check source state scheduling and frame sequence; review stepped playback, continuous decoded audio and exact ending separately.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "3.4",
+      "section": 3,
+      "section_title": "The 12fps experiment",
+      "requirement": "Judge the stepped motion in playback; do not assume that lowering the frame rate automatically creates appealing animation.",
+      "verification": "Check source state scheduling and frame sequence; review stepped playback, continuous decoded audio and exact ending separately.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "3.5",
+      "section": 3,
+      "section_title": "The 12fps experiment",
+      "requirement": "Preserve the exact established ending as the branding exception.",
+      "verification": "Check source state scheduling and frame sequence; review stepped playback, continuous decoded audio and exact ending separately.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "4.1",
+      "section": 4,
+      "section_title": "Photographic and tactile artwork",
+      "requirement": "Lead with photographic imagery rather than generic vector icons.",
+      "verification": "Inspect native encoded crops and phone frames, cutout edges, maximum-zoom source coverage and documentary/illustrative labels.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "4.2",
+      "section": 4,
+      "section_title": "Photographic and tactile artwork",
+      "requirement": "Use high-resolution cutouts with carefully prepared edges and sufficient resolution for close-ups.",
+      "verification": "Inspect native encoded crops and phone frames, cutout edges, maximum-zoom source coverage and documentary/illustrative labels.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "4.3",
+      "section": 4,
+      "section_title": "Photographic and tactile artwork",
+      "requirement": "Use paper borders, textured labels and collage treatments where they strengthen the composition.",
+      "verification": "Inspect native encoded crops and phone frames, cutout edges, maximum-zoom source coverage and documentary/illustrative labels.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "4.4",
+      "section": 4,
+      "section_title": "Photographic and tactile artwork",
+      "requirement": "Arrange images to demonstrate relationships and consequences, beyond stacking them on paper.",
+      "verification": "Inspect native encoded crops and phone frames, cutout edges, maximum-zoom source coverage and documentary/illustrative labels.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "4.5",
+      "section": 4,
+      "section_title": "Photographic and tactile artwork",
+      "requirement": "Create depth through scale, cropping, overlap and independently animated layers.",
+      "verification": "Inspect native encoded crops and phone frames, cutout edges, maximum-zoom source coverage and documentary/illustrative labels.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "4.6",
+      "section": 4,
+      "section_title": "Photographic and tactile artwork",
+      "requirement": "Use printed diagrams and annotations to support explanations when photographs cannot show the mechanism.",
+      "verification": "Inspect native encoded crops and phone frames, cutout edges, maximum-zoom source coverage and documentary/illustrative labels.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "4.7",
+      "section": 4,
+      "section_title": "Photographic and tactile artwork",
+      "requirement": "Keep illustrative constructions distinguishable from documentary evidence.",
+      "verification": "Inspect native encoded crops and phone frames, cutout edges, maximum-zoom source coverage and documentary/illustrative labels.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "5.1",
+      "section": 5,
+      "section_title": "Typography as animation",
+      "requirement": "Keep bold the old headline display face headlines and readable Manrope captions.",
+      "verification": "Inspect caption-on encoded moving samples for independent keyword/object interaction, font pins, hierarchy and clean type/graphic edges.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "5.2",
+      "section": 5,
+      "section_title": "Typography as animation",
+      "requirement": "Animate selected keywords independently from the captions.",
+      "verification": "Inspect caption-on encoded moving samples for independent keyword/object interaction, font pins, hierarchy and clean type/graphic edges.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "5.3",
+      "section": 5,
+      "section_title": "Typography as animation",
+      "requirement": "Make keywords interact with objects through placement, masking, movement or transformation.",
+      "verification": "Inspect caption-on encoded moving samples for independent keyword/object interaction, font pins, hierarchy and clean type/graphic edges.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "5.4",
+      "section": 5,
+      "section_title": "Typography as animation",
+      "requirement": "Use bright, deliberate highlights for important distinctions.",
+      "verification": "Inspect caption-on encoded moving samples for independent keyword/object interaction, font pins, hierarchy and clean type/graphic edges.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "5.5",
+      "section": 5,
+      "section_title": "Typography as animation",
+      "requirement": "Keep captions readable without competing with the main visual.",
+      "verification": "Inspect caption-on encoded moving samples for independent keyword/object interaction, font pins, hierarchy and clean type/graphic edges.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "5.6",
+      "section": 5,
+      "section_title": "Typography as animation",
+      "requirement": "Add no blurred text duplicates, shadow-like backdrops, halos or glows behind text or graphics.",
+      "verification": "Inspect caption-on encoded moving samples for independent keyword/object interaction, font pins, hierarchy and clean type/graphic edges.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "6.1",
+      "section": 6,
+      "section_title": "Texture and optical finishing",
+      "requirement": "Include visible paper/material texture and controlled photocopy or film grain.",
+      "verification": "Compare finishing on/off proof and actual native/phone encodes; judge Cold Metal material balance, sharp reading holds and unoccluded detail.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "6.2",
+      "section": 6,
+      "section_title": "Texture and optical finishing",
+      "requirement": "Use the Cold Metal balance as the benchmark; avoid obscuring photographs with excessive overlays.",
+      "verification": "Compare finishing on/off proof and actual native/phone encodes; judge Cold Metal material balance, sharp reading holds and unoccluded detail.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "6.3",
+      "section": 6,
+      "section_title": "Texture and optical finishing",
+      "requirement": "Apply restrained chromatic aberration where appropriate.",
+      "verification": "Compare finishing on/off proof and actual native/phone encodes; judge Cold Metal material balance, sharp reading holds and unoccluded detail.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "6.4",
+      "section": 6,
+      "section_title": "Texture and optical finishing",
+      "requirement": "Use source-image focus changes, compound blur and transition blur to direct attention.",
+      "verification": "Compare finishing on/off proof and actual native/phone encodes; judge Cold Metal material balance, sharp reading holds and unoccluded detail.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "6.5",
+      "section": 6,
+      "section_title": "Texture and optical finishing",
+      "requirement": "Apply mechanical jitter, brightness variation, edge boil and ink bleed selectively according to the material.",
+      "verification": "Compare finishing on/off proof and actual native/phone encodes; judge Cold Metal material balance, sharp reading holds and unoccluded detail.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "6.6",
+      "section": 6,
+      "section_title": "Texture and optical finishing",
+      "requirement": "Keep text crisp and the explanatory details legible through the finishing stack.",
+      "verification": "Compare finishing on/off proof and actual native/phone encodes; judge Cold Metal material balance, sharp reading holds and unoccluded detail.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "7.1",
+      "section": 7,
+      "section_title": "Sound and narration",
+      "requirement": "Write conversationally, with natural emphasis, pauses and changes in delivery.",
+      "verification": "Review actual final compressed audio with the moving film, on phone/headphones where available; cite cue onsets, collisions, speech and final-word tail. Code/levels alone cannot pass listening.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "7.2",
+      "section": 7,
+      "section_title": "Sound and narration",
+      "requirement": "Retain the approved Bernard voice.",
+      "verification": "Review actual final compressed audio with the moving film, on phone/headphones where available; cite cue onsets, collisions, speech and final-word tail. Code/levels alone cannot pass listening.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "7.3",
+      "section": 7,
+      "section_title": "Sound and narration",
+      "requirement": "Give meaningful movements synchronized, audible sound cues.",
+      "verification": "Review actual final compressed audio with the moving film, on phone/headphones where available; cite cue onsets, collisions, speech and final-word tail. Code/levels alone cannot pass listening.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "7.4",
+      "section": 7,
+      "section_title": "Sound and narration",
+      "requirement": "Use paper rustles/card flicks for physical layers, mechanical clicks for text or measurements, and lens/air sounds for camera actions.",
+      "verification": "Review actual final compressed audio with the moving film, on phone/headphones where available; cite cue onsets, collisions, speech and final-word tail. Code/levels alone cannot pass listening.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "7.5",
+      "section": 7,
+      "section_title": "Sound and narration",
+      "requirement": "Use restrained low-frequency accents for major reveals.",
+      "verification": "Review actual final compressed audio with the moving film, on phone/headphones where available; cite cue onsets, collisions, speech and final-word tail. Code/levels alone cannot pass listening.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "7.6",
+      "section": 7,
+      "section_title": "Sound and narration",
+      "requirement": "Reuse our existing SFX library first.",
+      "verification": "Review actual final compressed audio with the moving film, on phone/headphones where available; cite cue onsets, collisions, speech and final-word tail. Code/levels alone cannot pass listening.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "7.7",
+      "section": 7,
+      "section_title": "Sound and narration",
+      "requirement": "Shape the background music around discoveries, tension and resolution.",
+      "verification": "Review actual final compressed audio with the moving film, on phone/headphones where available; cite cue onsets, collisions, speech and final-word tail. Code/levels alone cannot pass listening.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "7.8",
+      "section": 7,
+      "section_title": "Sound and narration",
+      "requirement": "Prevent overlapping cues from becoming messy or masking narration.",
+      "verification": "Review actual final compressed audio with the moving film, on phone/headphones where available; cite cue onsets, collisions, speech and final-word tail. Code/levels alone cannot pass listening.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "7.9",
+      "section": 7,
+      "section_title": "Sound and narration",
+      "requirement": "Preserve every spoken word, including the final word and its natural tail.",
+      "verification": "Review actual final compressed audio with the moving film, on phone/headphones where available; cite cue onsets, collisions, speech and final-word tail. Code/levels alone cannot pass listening.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "8.1",
+      "section": 8,
+      "section_title": "Complete-video acceptance",
+      "requirement": "Deliver the entire episode, not a short excerpt standing in for it.",
+      "verification": "Inspect the entire actual encoded film and timestamped timeline; report unmet items. For audience measures use available platform analytics at the same elapsed age after publication.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "8.2",
+      "section": 8,
+      "section_title": "Complete-video acceptance",
+      "requirement": "Review the opening, middle, payoff, transitions and ending in the encoded video.",
+      "verification": "Inspect the entire actual encoded film and timestamped timeline; report unmet items. For audience measures use available platform analytics at the same elapsed age after publication.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "8.3",
+      "section": 8,
+      "section_title": "Complete-video acceptance",
+      "requirement": "Check the 1.5–2-second changes against the actual timeline.",
+      "verification": "Inspect the entire actual encoded film and timestamped timeline; report unmet items. For audience measures use available platform analytics at the same elapsed age after publication.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "8.4",
+      "section": 8,
+      "section_title": "Complete-video acceptance",
+      "requirement": "Verify that motion develops the explanation rather than providing decorative activity.",
+      "verification": "Inspect the entire actual encoded film and timestamped timeline; report unmet items. For audience measures use available platform analytics at the same elapsed age after publication.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "8.5",
+      "section": 8,
+      "section_title": "Complete-video acceptance",
+      "requirement": "Check sound synchronization, intelligibility, clipping and narration completeness.",
+      "verification": "Inspect the entire actual encoded film and timestamped timeline; report unmet items. For audience measures use available platform analytics at the same elapsed age after publication.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "8.6",
+      "section": 8,
+      "section_title": "Complete-video acceptance",
+      "requirement": "Identify any unmet item explicitly instead of claiming blanket compliance.",
+      "verification": "Inspect the entire actual encoded film and timestamped timeline; report unmet items. For audience measures use available platform analytics at the same elapsed age after publication.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "8.7",
+      "section": 8,
+      "section_title": "Complete-video acceptance",
+      "requirement": "After publication, compare available swipe-away, retention, watch-duration and engagement data at comparable ages.",
+      "verification": "Inspect the entire actual encoded film and timestamped timeline; report unmet items. For audience measures use available platform analytics at the same elapsed age after publication.",
+      "default_verdict": "NOT REVIEWED"
+    }
+  ],
+  "reference_study": [
+    {
+      "id": "R.1",
+      "requirement": "Examine the reference channel’s premise, escalation, visual metaphors, typography, transitions and sound relationships.",
+      "default_verdict": "NOT REVIEWED"
+    },
+    {
+      "id": "R.2",
+      "requirement": "A detailed viewing analysis has not yet been completed; do not represent it as finished.",
+      "default_verdict": "NOT REVIEWED"
+    }
+  ],
+  "audience_promise": "No particular view count or retention result is promised."
+}
