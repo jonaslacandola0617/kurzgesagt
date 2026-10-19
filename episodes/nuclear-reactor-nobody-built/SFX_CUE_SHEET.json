@@ -1,0 +1,324 @@
+{
+ "voice_offset_s": 0.3,
+ "duration_s": 91.116,
+ "cues": [
+  {
+   "event": "readout appears",
+   "onset_s": 5.833,
+   "asset": "audio/sfx_v1/science/SFX_SCIENCE_data_pulse_v1.flac",
+   "sha256": "78a2fc3465651e248dbc7a432a0736a1d9af50b726ab15e3d71aae84ad809ee7",
+   "gain_db": -12,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "MISMATCH on screen",
+   "onset_s": 6.633,
+   "asset": "audio/sfx_v1/science/SFX_SCIENCE_unit_mismatch_v1.flac",
+   "sha256": "61b2d937a58106cf2aa215d1918df072cd58892816eb43ee2bd331064ad908b2",
+   "gain_db": -12,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "cut to Earth",
+   "onset_s": 7.5,
+   "asset": "audio/sfx_v1/motion/SFX_MOTION_soft_depth_pass_v1.flac",
+   "sha256": "0e9b66b3db679e689e2ad980881a2e862f3b82353d9ed0fb348d46078ca13b16",
+   "gain_db": -12,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "Gabon pin appears",
+   "onset_s": 16.2,
+   "asset": "audio/sfx_v1/motion/SFX_MOTION_tiny_mask_reveal_v1.flac",
+   "sha256": "299b44657c88f12d22e126cd1e68b4420dacd229441d86c984be6b0e7024a7c6",
+   "gain_db": -10,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "Gabon turns red",
+   "onset_s": 18.0,
+   "asset": "audio/sfx_v1/editorial/SFX_EDITORIAL_doubt_tick_v1.flac",
+   "sha256": "3037b29ca0dd9f8414de398b2db402d825039da4ff15946350064bcdb5fd94e1",
+   "gain_db": -8,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "fuel rod lands",
+   "onset_s": 19.2,
+   "asset": "audio/sfx_v1/mechanical/SFX_MECHANICAL_steel_latch_v1.flac",
+   "sha256": "88fa8039b4d1955a73d35980c8cb95840ee799874ad090442035a59ab911182b",
+   "gain_db": -10,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "rock slides in",
+   "onset_s": 22.333,
+   "asset": "audio/sfx_v1/motion/SFX_MOTION_cut_match_v1.flac",
+   "sha256": "58a965cb511c6bb5efc745f438b14e1b727958655a59784e2da9bee841584890",
+   "gain_db": -10,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "NOBODY BUILT IT",
+   "onset_s": 24.5,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_investigative_sting_v1.flac",
+   "sha256": "4d0c67e836077cb9615f04877dedb73662f862701d9576b0217042e5f66c20e4",
+   "gain_db": -11,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "rewind",
+   "onset_s": 26.2,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_suspense_riser_v1.flac",
+   "sha256": "36f58ac6922190c293303434a089bc81b5d0823542595e4d6e8015de1cd203ba",
+   "gain_db": -15,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "uranium gauge rises",
+   "onset_s": 30.4,
+   "asset": "audio/sfx_v1/science/SFX_SCIENCE_data_pulse_v1.flac",
+   "sha256": "78a2fc3465651e248dbc7a432a0736a1d9af50b726ab15e3d71aae84ad809ee7",
+   "gain_db": -13,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "dive into ground",
+   "onset_s": 35.467,
+   "asset": "audio/sfx_v1/motion/SFX_MOTION_parallax_swish_v1.flac",
+   "sha256": "cf811cd552fad696bbc099ab3754add546034f1c892af5516c02b919e54180b0",
+   "gain_db": -9,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "iris into ore",
+   "onset_s": 37.8,
+   "asset": "audio/sfx_v1/motion/SFX_MOTION_soft_depth_pass_v1.flac",
+   "sha256": "0e9b66b3db679e689e2ad980881a2e862f3b82353d9ed0fb348d46078ca13b16",
+   "gain_db": -9,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "CHAIN REACTION",
+   "onset_s": 43.4,
+   "asset": "audio/sfx_v1/editorial/SFX_EDITORIAL_causal_reveal_v1.flac",
+   "sha256": "3913dfb99f87c3f662191afe15eae7f35da595d842481cd255c412cb4e0ed538",
+   "gain_db": -11,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "reaction OFF",
+   "onset_s": 50.333,
+   "asset": "audio/sfx_v1/science/SFX_SCIENCE_lost_signal_v1.flac",
+   "sha256": "f2d880e3f831814f233c6b8bad9ad2928ef1e5b9bf3e487cfe03358fe0b395d6",
+   "gain_db": -12,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "ON AGAIN",
+   "onset_s": 55.333,
+   "asset": "audio/sfx_v1/editorial/SFX_EDITORIAL_discovery_chime_v1.flac",
+   "sha256": "5ccfbca8261f4e703d437d249e4b2b6c47c05fe756fc2e834d29056e9f5a252f",
+   "gain_db": -12,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "rhythm cut",
+   "onset_s": 57.0,
+   "asset": "audio/sfx_v1/motion/SFX_MOTION_cut_match_v1.flac",
+   "sha256": "58a965cb511c6bb5efc745f438b14e1b727958655a59784e2da9bee841584890",
+   "gain_db": -12,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "it can't happen today",
+   "onset_s": 62.9,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_restrained_boom_v1.flac",
+   "sha256": "0f8ed588c6c31aa27d3634ef7b39acb5709831b959bc4366aaa2b9aa282b11fa",
+   "gain_db": -11,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "TOO LITTLE FUEL",
+   "onset_s": 68.633,
+   "asset": "audio/sfx_v1/editorial/SFX_EDITORIAL_hard_fact_punctuate_v1.flac",
+   "sha256": "4cb9f9354bd8b1d448bc0f5a2101cd24e81bddc8a6671cf3a2a3a1ba3604a838",
+   "gain_db": -12,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "receipts",
+   "onset_s": 72.067,
+   "asset": "audio/sfx_v1/editorial/SFX_EDITORIAL_discovery_chime_v1.flac",
+   "sha256": "5ccfbca8261f4e703d437d249e4b2b6c47c05fe756fc2e834d29056e9f5a252f",
+   "gain_db": -13,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "alpha panel",
+   "onset_s": 76.3,
+   "asset": "audio/sfx_v1/motion/SFX_MOTION_document_focus_v1.flac",
+   "sha256": "59b641d105683bff434cdfc54592ebee1cff0f33ea0c62927161580687e87846",
+   "gain_db": -13,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "bound locked",
+   "onset_s": 79.4,
+   "asset": "audio/sfx_v1/editorial/SFX_EDITORIAL_evidence_lock_v1.flac",
+   "sha256": "aead89bf782fdbb66e266828cecd9c7535e49a59476df368e31d9eb05fdd4262",
+   "gain_db": -12,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "return to lab",
+   "onset_s": 84.5,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_warm_resolution_v1.flac",
+   "sha256": "a4d570c121795464235f6f888b42beda1a162a5937c3c527e6141ab2534be27a",
+   "gain_db": -13,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "fission 1",
+   "onset_s": 40.867,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_micro_emphasis_v1.flac",
+   "sha256": "477c33e0caa4313d8cb7bc0e1decdfc2fd15b161c7c2b8bcb719f16b84adc1b2",
+   "gain_db": -8,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "fission 2",
+   "onset_s": 41.867,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_micro_emphasis_v1.flac",
+   "sha256": "477c33e0caa4313d8cb7bc0e1decdfc2fd15b161c7c2b8bcb719f16b84adc1b2",
+   "gain_db": -9,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "fission 3",
+   "onset_s": 42.0,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_micro_emphasis_v1.flac",
+   "sha256": "477c33e0caa4313d8cb7bc0e1decdfc2fd15b161c7c2b8bcb719f16b84adc1b2",
+   "gain_db": -10,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "fission 4",
+   "onset_s": 42.567,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_micro_emphasis_v1.flac",
+   "sha256": "477c33e0caa4313d8cb7bc0e1decdfc2fd15b161c7c2b8bcb719f16b84adc1b2",
+   "gain_db": -11,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "fission 5",
+   "onset_s": 43.6,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_micro_emphasis_v1.flac",
+   "sha256": "477c33e0caa4313d8cb7bc0e1decdfc2fd15b161c7c2b8bcb719f16b84adc1b2",
+   "gain_db": -12,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "fission 6",
+   "onset_s": 44.3,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_micro_emphasis_v1.flac",
+   "sha256": "477c33e0caa4313d8cb7bc0e1decdfc2fd15b161c7c2b8bcb719f16b84adc1b2",
+   "gain_db": -13,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "restart fission",
+   "onset_s": 55.867,
+   "asset": "audio/sfx_v1/cinematic/SFX_CINEMATIC_micro_emphasis_v1.flac",
+   "sha256": "477c33e0caa4313d8cb7bc0e1decdfc2fd15b161c7c2b8bcb719f16b84adc1b2",
+   "gain_db": -9,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "pin 1",
+   "onset_s": 9.5,
+   "asset": "audio/sfx_v1/science/SFX_SCIENCE_telemetry_ping_v1.flac",
+   "sha256": "a93d755094ece0ca9452e4249c129297ae0b80c90fa8d0940627ed485cc48c65",
+   "gain_db": -24,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "pin 2",
+   "onset_s": 9.667,
+   "asset": "audio/sfx_v1/science/SFX_SCIENCE_telemetry_ping_v1.flac",
+   "sha256": "a93d755094ece0ca9452e4249c129297ae0b80c90fa8d0940627ed485cc48c65",
+   "gain_db": -24,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "pin 3",
+   "onset_s": 9.833,
+   "asset": "audio/sfx_v1/science/SFX_SCIENCE_telemetry_ping_v1.flac",
+   "sha256": "a93d755094ece0ca9452e4249c129297ae0b80c90fa8d0940627ed485cc48c65",
+   "gain_db": -24,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "pin 4",
+   "onset_s": 10.033,
+   "asset": "audio/sfx_v1/science/SFX_SCIENCE_telemetry_ping_v1.flac",
+   "sha256": "a93d755094ece0ca9452e4249c129297ae0b80c90fa8d0940627ed485cc48c65",
+   "gain_db": -24,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "pin 5",
+   "onset_s": 10.2,
+   "asset": "audio/sfx_v1/science/SFX_SCIENCE_telemetry_ping_v1.flac",
+   "sha256": "a93d755094ece0ca9452e4249c129297ae0b80c90fa8d0940627ed485cc48c65",
+   "gain_db": -24,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "pin 6",
+   "onset_s": 10.367,
+   "asset": "audio/sfx_v1/science/SFX_SCIENCE_telemetry_ping_v1.flac",
+   "sha256": "a93d755094ece0ca9452e4249c129297ae0b80c90fa8d0940627ed485cc48c65",
+   "gain_db": -24,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "pin 7",
+   "onset_s": 10.533,
+   "asset": "audio/sfx_v1/science/SFX_SCIENCE_telemetry_ping_v1.flac",
+   "sha256": "a93d755094ece0ca9452e4249c129297ae0b80c90fa8d0940627ed485cc48c65",
+   "gain_db": -24,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "pin 8",
+   "onset_s": 10.7,
+   "asset": "audio/sfx_v1/science/SFX_SCIENCE_telemetry_ping_v1.flac",
+   "sha256": "a93d755094ece0ca9452e4249c129297ae0b80c90fa8d0940627ed485cc48c65",
+   "gain_db": -24,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "pin 9",
+   "onset_s": 10.867,
+   "asset": "audio/sfx_v1/science/SFX_SCIENCE_telemetry_ping_v1.flac",
+   "sha256": "a93d755094ece0ca9452e4249c129297ae0b80c90fa8d0940627ed485cc48c65",
+   "gain_db": -24,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "pin 10",
+   "onset_s": 11.033,
+   "asset": "audio/sfx_v1/science/SFX_SCIENCE_telemetry_ping_v1.flac",
+   "sha256": "a93d755094ece0ca9452e4249c129297ae0b80c90fa8d0940627ed485cc48c65",
+   "gain_db": -24,
+   "provenance": "catalogued synthesized SFX, not a recording"
+  },
+  {
+   "event": "boiling bubble pops x30",
+   "onset_s": "47.00-49.40",
+   "asset": "synthesized in mix.py",
+   "provenance": "designed sound, not a recording"
+  }
+ ]
+}
