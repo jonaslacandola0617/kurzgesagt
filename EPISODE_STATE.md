@@ -58,5 +58,11 @@ Updated 2026-10-19 (Asia/Manila). Working repo `jonaslacandola0617/kurzgesagt` (
 - Low-poly 3D: `qa/style-test-oklo-3d-20261019/` using owner's own low-poly asset library (7 models copied to `assets/3d/`, renamed). Owner to compare and choose a direction.
 - Bernard kept as narrator (owner, 19 Oct). Take `YsbpPU1Qo7w3mLeoY6rf` chosen for timing; download blocked here (storage.googleapis.com not allowed); owner to save it as `D:\channel-animation\style-test\bernard.mp3`.
 
+## Full draft: The Nuclear Reactor Nobody Built (owner approved title 19 Oct 2026, 20:14)
+- `episodes/nuclear-reactor-nobody-built/`: claims C01 to C10, script v1 (not owner approved), Bernard take do8dPOKUA9HSn4mT4IsL (silence trims only), scene, timeline, mix.
+- **draft v1 MP4** sha256 `a8d5e4fe108a722217928e9434d0d898e57446075608f05593f322293d0fbb53`, 91.1 s, spec PASS (H.264 High yuv420p 30fps, AAC 48k 320k, faststart), −14.2 LUFS / −1.5 dBTP, clean decode, random seek identical (6 frames). Archived in two parts in `archive/` (LFS and Releases blocked; fresh download SHA verified at 163fea0).
+- Known issues for owner review: REACTOR chip lags "stopped" and "ON AGAIN"; oversized orange ore glow in rhythm and today shots with weak caption contrast; caption overlaps lab monitor text near 6 s; final word may end abruptly (30 ms fade); captions estimated; ElevenLabs account warning.
+- Approvals: none. Owner viewing and listening review pending.
+
 ## Next action
 Owner selects a topic, decides narrator, and says whether brand identity work comes first. Then: `episodes/<slug>/claims.csv`, script draft, preset validator. No production before selection.
